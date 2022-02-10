@@ -1,5 +1,6 @@
 ---
 title: ''
+hiddenTitle: true
 ---
 
 _Viděl sem všecky skutky, kteréž se dějí pod sluncem  
