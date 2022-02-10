@@ -1,0 +1,521 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Labyrint světa a ráj srdce",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jan Amos Komenský",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-02-10T10:37:31.293Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.2",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_062.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image003.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image004.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_labyrint_sveta_a_raj_srdce2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Věnování",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "K čtenáři",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_007.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "KAPITOLA I. O příčinách v svět putování",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_008.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "KAPITOLA II. Poutník dostal Všudybuda za vůdce",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_009.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "KAPITOLA III. Mámení se přitovaryšilo",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_010.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "KAPITOLA IV. Poutník uzdy a brýlí dostal",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_011.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "KAPITOLA V. Poutník se z vysoka na svět dívá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_012.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "KAPITOLA VI. Osud rozděluje povolání",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_013.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "KAPITOLA VII. Poutník prohlédá rynk světa",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_014.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "KAPITOLA VIII. Poutník prohlédá stav a řád manželů",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_015.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "KAPITOLA IX. Poutník prohlédá stav řemeslníků",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_016.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "KAPITOLA X. Poutník stav učených prohlédá, nejprv veřejně",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_017.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "KAPITOLA XI. Poutník přišel mezi filozofy",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_018.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "KAPITOLA XII. Poutník prohlédá alchymií",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_019.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "KAPITOLA XIII. Poutník se na Rose-Crucios dívá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_020.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "KAPITOLA XIV. Poutník medicínu prohlédá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_021.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "KAPITOLA XV. Poutník spatřuje juris prudentiam",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_022.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "KAPITOLA XVI. Poutník se na promocí mistrů a doktorů dívá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_023.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "KAPITOLA XVII. Poutník prohlédá stav nábožníků",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_024.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "KAPITOLA XVIII. Prohlédá náboženství křesťanské",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_025.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "KAPITOLA XIX. Poutník stav vrchností spatřuje",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_026.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "KAPITOLA XX. Stav soldátský",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_027.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "KAPITOLA XXI. Stav rytířský",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_028.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "KAPITOLA XXII. Poutník mezi novináře trefil",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_029.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "KAPITOLA XXIII. Poutník prohlédá hrad Fortuny; a nejprv přístup k němu",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_030.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "KAPITOLA XXIV. Poutník způsob boháčů prohlédá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_031.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "KAPITOLA XXV. Způsob rozkošných světa",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_032.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "KAPITOLA XXVI. Způsob povýšených světa",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_033.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "KAPITOLA XXVII. Sláva slovoutných v světě",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_034.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_035.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "KAPITOLA XXIX. Poutník hrad královny světa, Moudrosti, prohlédá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_036.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "KAPITOLA XXX.Poutník na palácu Moudrosti obžalován",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_037.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_038.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_039.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "KAPITOLA XXXIII. Šalomoun marnosti a šalby světa vyjevuje",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_040.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "KAPITOLA XXXIV. Šalomoun oklamán a sveden",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_041.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "KAPITOLA XXXV. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými zprovázíno",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_042.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "KAPITOLA XXXVI. Poutník z světa utéci chce",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_043.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "KAPITOLA XXXVII. Poutník domu trefil",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_044.xhtml#_idParaDest-39"
+    },
+    {
+      "title": "KAPITOLA XXXVIII. Krista za hostě dostal",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_045.xhtml#_idParaDest-40"
+    },
+    {
+      "title": "KAPITOLA XXXIX. Námluva jejich společná",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_046.xhtml#_idParaDest-41"
+    },
+    {
+      "title": "KAPITOLA XL. Poutník jak proměněn",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_047.xhtml#_idParaDest-42"
+    },
+    {
+      "title": "KAPITOLA XLI. Poutník do neviditedlné církve odkázán",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_048.xhtml#_idParaDest-43"
+    },
+    {
+      "title": "KAPITOLA XLII. Vnitřních křesťanů světlo",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_049.xhtml#_idParaDest-44"
+    },
+    {
+      "title": "KAPITOLA XLIII. SVOBODA BOHU ODDANÝCH SRDCÍ",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_050.xhtml#_idParaDest-45"
+    },
+    {
+      "title": "KAPITOLA XLIV. Řád vnitřních křesťanů",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_051.xhtml#_idParaDest-46"
+    },
+    {
+      "title": "KAPITOLA XLV. Bohu oddaným srdcím vše lehko a snadno",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_052.xhtml#_idParaDest-47"
+    },
+    {
+      "title": "KAPITOLA XLVI. Svatí všeho hojnost mají",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_053.xhtml#_idParaDest-48"
+    },
+    {
+      "title": "KAPITOLA XLVII. Bezpečnost bohu oddaných lidí",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_054.xhtml#_idParaDest-49"
+    },
+    {
+      "title": "KAPITOLA XLVIII. Pobožní mají odevšad pokoj",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_055.xhtml#_idParaDest-50"
+    },
+    {
+      "title": "KAPITOLA XLIX. Pobožní mají stálou v srdci radost",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_056.xhtml#_idParaDest-51"
+    },
+    {
+      "title": "KAPITOLA L. Poutník křesťany podle stavů prohlédá",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_057.xhtml#_idParaDest-52"
+    },
+    {
+      "title": "KAPITOLA LI. Smrt křesťanů věrných",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_058.xhtml#_idParaDest-53"
+    },
+    {
+      "title": "KAPITOLA LII. Poutník spatřuje slávu Boží",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_059.xhtml#_idParaDest-54"
+    },
+    {
+      "title": "KAPITOLA LIII. Poutník za domácího Božího přijat",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_060.xhtml#_idParaDest-55"
+    },
+    {
+      "title": "KAPITOLA LIV. Zavírka všeho",
+      "href": "OEBPS/Text/labyrint_sveta_a_raj_srdce_061.xhtml#_idParaDest-56"
+    }
+  ]
+}

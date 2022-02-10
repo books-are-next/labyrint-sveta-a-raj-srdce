@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Labyrint světa a ráj srdce</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Věnování</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>K čtenáři</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>KAPITOLA I. O příčinách v svět putování</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>KAPITOLA II. Poutník dostal Všudybuda za vůdce</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>KAPITOLA III. Mámení se přitovaryšilo</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>KAPITOLA IV. Poutník uzdy a brýlí dostal</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>KAPITOLA V. Poutník se z vysoka na svět dívá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>KAPITOLA VI. Osud rozděluje povolání</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>KAPITOLA VII. Poutník prohlédá rynk světa</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_014.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>KAPITOLA VIII. Poutník prohlédá stav a řád manželů</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_015.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>KAPITOLA IX. Poutník prohlédá stav řemeslníků</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_016.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>KAPITOLA X. Poutník stav učených prohlédá, nejprv veřejně</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_017.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>KAPITOLA XI. Poutník přišel mezi filozofy</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_018.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>KAPITOLA XII. Poutník prohlédá alchymií</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_019.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>KAPITOLA XIII. Poutník se na Rose-Crucios dívá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_020.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>KAPITOLA XIV. Poutník medicínu prohlédá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_021.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>KAPITOLA XV. Poutník spatřuje juris prudentiam</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_022.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>KAPITOLA XVI. Poutník se na promocí mistrů a doktorů dívá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_023.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>KAPITOLA XVII. Poutník prohlédá stav nábožníků</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_024.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>KAPITOLA XVIII. Prohlédá náboženství křesťanské</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_025.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>KAPITOLA XIX. Poutník stav vrchností spatřuje</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_026.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>KAPITOLA XX. Stav soldátský</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_027.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>KAPITOLA XXI. Stav rytířský</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_028.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>KAPITOLA XXII. Poutník mezi novináře trefil</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_029.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>KAPITOLA XXIII. Poutník prohlédá hrad Fortuny; a nejprv přístup k němu</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_030.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>KAPITOLA XXIV. Poutník způsob boháčů prohlédá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_031.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>KAPITOLA XXV. Způsob rozkošných světa</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_032.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>KAPITOLA XXVI. Způsob povýšených světa</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_033.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>KAPITOLA XXVII. Sláva slovoutných v světě</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_034.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_035.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>KAPITOLA XXIX. Poutník hrad královny světa, Moudrosti, prohlédá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_036.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>KAPITOLA XXX.Poutník na palácu Moudrosti obžalován</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_037.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_038.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_039.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>KAPITOLA XXXIII. Šalomoun marnosti a šalby světa vyjevuje</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_040.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>KAPITOLA XXXIV. Šalomoun oklamán a sveden</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_041.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>KAPITOLA XXXV. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými zprovázíno</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_042.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>KAPITOLA XXXVI. Poutník z světa utéci chce</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_043.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>KAPITOLA XXXVII. Poutník domu trefil</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_044.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>KAPITOLA XXXVIII. Krista za hostě dostal</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_045.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>KAPITOLA XXXIX. Námluva jejich společná</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_046.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>KAPITOLA XL. Poutník jak proměněn</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_047.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>KAPITOLA XLI. Poutník do neviditedlné církve odkázán</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_048.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>KAPITOLA XLII. Vnitřních křesťanů světlo</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_049.xhtml#_idParaDest-44"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>KAPITOLA XLIII. SVOBODA BOHU ODDANÝCH SRDCÍ</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_050.xhtml#_idParaDest-45"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>KAPITOLA XLIV. Řád vnitřních křesťanů</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_051.xhtml#_idParaDest-46"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>KAPITOLA XLV. Bohu oddaným srdcím vše lehko a snadno</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_052.xhtml#_idParaDest-47"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>KAPITOLA XLVI. Svatí všeho hojnost mají</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_053.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>KAPITOLA XLVII. Bezpečnost bohu oddaných lidí</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_054.xhtml#_idParaDest-49"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>KAPITOLA XLVIII. Pobožní mají odevšad pokoj</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_055.xhtml#_idParaDest-50"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>KAPITOLA XLIX. Pobožní mají stálou v srdci radost</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_056.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>KAPITOLA L. Poutník křesťany podle stavů prohlédá</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_057.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>KAPITOLA LI. Smrt křesťanů věrných</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_058.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>KAPITOLA LII. Poutník spatřuje slávu Boží</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_059.xhtml#_idParaDest-54"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>KAPITOLA LIII. Poutník za domácího Božího přijat</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_060.xhtml#_idParaDest-55"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>KAPITOLA LIV. Zavírka všeho</text>
+      </navLabel>
+      <content src="Text/labyrint_sveta_a_raj_srdce_061.xhtml#_idParaDest-56"/>
+    </navPoint>
+  </navMap>
+</ncx>
