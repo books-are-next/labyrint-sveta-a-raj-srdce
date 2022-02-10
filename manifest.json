@@ -1,0 +1,1269 @@
+{
+  "author": "Jan Amos Komenský",
+  "edition": "beletrie",
+  "identifier": "komensky-labyrint-sveta-a-raj-srdce-2c919af",
+  "languagecode": "cs",
+  "modified": "2022-02-10T10:37:31.293Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Labyrint světa a ráj srdce",
+  "revision": "2c919af",
+  "generatedAt": {
+    "date": "Thu Feb 10 2022 10:52:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644490373772
+  },
+  "documents": [
+    {
+      "title": "Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "labyrint_sveta_a_raj_srdce_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "labyrint_sveta_a_raj_srdce_001.html",
+      "next": "labyrint_sveta_a_raj_srdce_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_003.html",
+      "words": 66,
+      "chars": 365,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "labyrint_sveta_a_raj_srdce_002.html",
+      "next": "labyrint_sveta_a_raj_srdce_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_004.html",
+      "words": 90,
+      "chars": 582,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "labyrint_sveta_a_raj_srdce_003.html",
+      "next": "labyrint_sveta_a_raj_srdce_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_005.html",
+      "words": 51,
+      "chars": 291,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 4,
+      "prev": "labyrint_sveta_a_raj_srdce_004.html",
+      "next": "labyrint_sveta_a_raj_srdce_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věnování • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_006.html",
+      "words": 308,
+      "chars": 2173,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 5,
+      "prev": "labyrint_sveta_a_raj_srdce_005.html",
+      "next": "labyrint_sveta_a_raj_srdce_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věnování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K čtenáři • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_007.html",
+      "words": 661,
+      "chars": 3839,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 6,
+      "prev": "labyrint_sveta_a_raj_srdce_006.html",
+      "next": "labyrint_sveta_a_raj_srdce_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K čtenáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA I.O příčinách v svět putování • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_008.html",
+      "words": 275,
+      "chars": 1532,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 7,
+      "prev": "labyrint_sveta_a_raj_srdce_007.html",
+      "next": "labyrint_sveta_a_raj_srdce_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA I.O příčinách v svět putování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA II.Poutník dostal Všudybuda za vůdce • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_009.html",
+      "words": 453,
+      "chars": 2555,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 8,
+      "prev": "labyrint_sveta_a_raj_srdce_008.html",
+      "next": "labyrint_sveta_a_raj_srdce_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA II.Poutník dostal Všudybuda za vůdce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA III. Mámení se přitovaryšilo • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_010.html",
+      "words": 389,
+      "chars": 2220,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 9,
+      "prev": "labyrint_sveta_a_raj_srdce_009.html",
+      "next": "labyrint_sveta_a_raj_srdce_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA III. Mámení se přitovaryšilo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA IV.Poutník uzdy a brýlí dostal • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_011.html",
+      "words": 355,
+      "chars": 1950,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 10,
+      "prev": "labyrint_sveta_a_raj_srdce_010.html",
+      "next": "labyrint_sveta_a_raj_srdce_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA IV.Poutník uzdy a brýlí dostal",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA V.Poutník se z vysoka na svět dívá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_012.html",
+      "words": 748,
+      "chars": 4224,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 11,
+      "prev": "labyrint_sveta_a_raj_srdce_011.html",
+      "next": "labyrint_sveta_a_raj_srdce_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA V.Poutník se z vysoka na svět dívá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VI.Osud rozděluje povolání • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_013.html",
+      "words": 290,
+      "chars": 1653,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 12,
+      "prev": "labyrint_sveta_a_raj_srdce_012.html",
+      "next": "labyrint_sveta_a_raj_srdce_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VI.Osud rozděluje povolání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VII.Poutník prohlédá rynk světa • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_014.html",
+      "words": 2142,
+      "chars": 12644,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 13,
+      "prev": "labyrint_sveta_a_raj_srdce_013.html",
+      "next": "labyrint_sveta_a_raj_srdce_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VII.Poutník prohlédá rynk světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA VIII.Poutník prohlédá stav a řád manželů • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_015.html",
+      "words": 1824,
+      "chars": 10445,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 14,
+      "prev": "labyrint_sveta_a_raj_srdce_014.html",
+      "next": "labyrint_sveta_a_raj_srdce_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA VIII.Poutník prohlédá stav a řád manželů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA IX.Poutník prohlédá stav řemeslníků • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_016.html",
+      "words": 2791,
+      "chars": 16234,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 15,
+      "prev": "labyrint_sveta_a_raj_srdce_015.html",
+      "next": "labyrint_sveta_a_raj_srdce_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA IX.Poutník prohlédá stav řemeslníků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA X.Poutník stav učených prohlédá, nejprv veřejně • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_017.html",
+      "words": 2572,
+      "chars": 15381,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 16,
+      "prev": "labyrint_sveta_a_raj_srdce_016.html",
+      "next": "labyrint_sveta_a_raj_srdce_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA X.Poutník stav učených prohlédá, nejprv veřejně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XI.Poutník přišel mezi filozofy • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_018.html",
+      "words": 3079,
+      "chars": 18242,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 17,
+      "prev": "labyrint_sveta_a_raj_srdce_017.html",
+      "next": "labyrint_sveta_a_raj_srdce_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XI.Poutník přišel mezi filozofy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XII.Poutník prohlédá alchymií • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_019.html",
+      "words": 643,
+      "chars": 3751,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 18,
+      "prev": "labyrint_sveta_a_raj_srdce_018.html",
+      "next": "labyrint_sveta_a_raj_srdce_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XII.Poutník prohlédá alchymií",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIII.Poutník se na Rose-Crucios dívá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_020.html",
+      "words": 1098,
+      "chars": 6772,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "labyrint_sveta_a_raj_srdce_019.html",
+      "next": "labyrint_sveta_a_raj_srdce_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIII.Poutník se na Rose-Crucios dívá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIV.Poutník medicínu prohlédá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_021.html",
+      "words": 331,
+      "chars": 1992,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 20,
+      "prev": "labyrint_sveta_a_raj_srdce_020.html",
+      "next": "labyrint_sveta_a_raj_srdce_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIV.Poutník medicínu prohlédá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XV.Poutník spatřuje juris prudentiam • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_022.html",
+      "words": 426,
+      "chars": 2394,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 21,
+      "prev": "labyrint_sveta_a_raj_srdce_021.html",
+      "next": "labyrint_sveta_a_raj_srdce_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XV.Poutník spatřuje juris prudentiam",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XVI.Poutník se na promocí mistrů a doktorů dívá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_023.html",
+      "words": 370,
+      "chars": 2346,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 22,
+      "prev": "labyrint_sveta_a_raj_srdce_022.html",
+      "next": "labyrint_sveta_a_raj_srdce_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XVI.Poutník se na promocí mistrů a doktorů dívá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XVII.Poutník prohlédá stav nábožníků • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_024.html",
+      "words": 706,
+      "chars": 4175,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 23,
+      "prev": "labyrint_sveta_a_raj_srdce_023.html",
+      "next": "labyrint_sveta_a_raj_srdce_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XVII.Poutník prohlédá stav nábožníků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XVIII.Prohlédá náboženství křesťanské • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_025.html",
+      "words": 2724,
+      "chars": 16139,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 24,
+      "prev": "labyrint_sveta_a_raj_srdce_024.html",
+      "next": "labyrint_sveta_a_raj_srdce_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XVIII.Prohlédá náboženství křesťanské",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XIX.Poutník stav vrchností spatřuje • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_026.html",
+      "words": 1976,
+      "chars": 11790,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 25,
+      "prev": "labyrint_sveta_a_raj_srdce_025.html",
+      "next": "labyrint_sveta_a_raj_srdce_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XIX.Poutník stav vrchností spatřuje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XX.Stav soldátský • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_027.html",
+      "words": 891,
+      "chars": 5256,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 26,
+      "prev": "labyrint_sveta_a_raj_srdce_026.html",
+      "next": "labyrint_sveta_a_raj_srdce_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XX.Stav soldátský",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXI.Stav rytířský • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_028.html",
+      "words": 532,
+      "chars": 3214,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 27,
+      "prev": "labyrint_sveta_a_raj_srdce_027.html",
+      "next": "labyrint_sveta_a_raj_srdce_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXI.Stav rytířský",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXII.Poutník mezi novináře trefil • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_029.html",
+      "words": 604,
+      "chars": 3542,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 28,
+      "prev": "labyrint_sveta_a_raj_srdce_028.html",
+      "next": "labyrint_sveta_a_raj_srdce_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXII.Poutník mezi novináře trefil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXIII. Poutník prohlédá hrad Fortuny; a nejprv přístup k němu • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_030.html",
+      "words": 514,
+      "chars": 3015,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 29,
+      "prev": "labyrint_sveta_a_raj_srdce_029.html",
+      "next": "labyrint_sveta_a_raj_srdce_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXIII. Poutník prohlédá hrad Fortuny; a nejprv přístup k němu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXIV. Poutník způsob boháčů prohlédá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_031.html",
+      "words": 627,
+      "chars": 3663,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 30,
+      "prev": "labyrint_sveta_a_raj_srdce_030.html",
+      "next": "labyrint_sveta_a_raj_srdce_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXIV. Poutník způsob boháčů prohlédá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXV. Způsob rozkošných světa • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_032.html",
+      "words": 1200,
+      "chars": 7167,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 31,
+      "prev": "labyrint_sveta_a_raj_srdce_031.html",
+      "next": "labyrint_sveta_a_raj_srdce_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXV. Způsob rozkošných světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXVI. Způsob povýšených světa • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_033.html",
+      "words": 405,
+      "chars": 2377,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 32,
+      "prev": "labyrint_sveta_a_raj_srdce_032.html",
+      "next": "labyrint_sveta_a_raj_srdce_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXVI. Způsob povýšených světa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXVII. Sláva slovoutných v světě • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_034.html",
+      "words": 922,
+      "chars": 5566,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 33,
+      "prev": "labyrint_sveta_a_raj_srdce_033.html",
+      "next": "labyrint_sveta_a_raj_srdce_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXVII. Sláva slovoutných v světě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_035.html",
+      "words": 583,
+      "chars": 3426,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 34,
+      "prev": "labyrint_sveta_a_raj_srdce_034.html",
+      "next": "labyrint_sveta_a_raj_srdce_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXIX. Poutník hrad královny světa, Moudrosti, prohlédá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_036.html",
+      "words": 287,
+      "chars": 1663,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 35,
+      "prev": "labyrint_sveta_a_raj_srdce_035.html",
+      "next": "labyrint_sveta_a_raj_srdce_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXIX. Poutník hrad královny světa, Moudrosti, prohlédá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXX.Poutník na palácu Moudrosti obžalován • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_037.html",
+      "words": 1014,
+      "chars": 6040,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 36,
+      "prev": "labyrint_sveta_a_raj_srdce_036.html",
+      "next": "labyrint_sveta_a_raj_srdce_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXX.Poutník na palácu Moudrosti obžalován",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_038.html",
+      "words": 328,
+      "chars": 1923,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 37,
+      "prev": "labyrint_sveta_a_raj_srdce_037.html",
+      "next": "labyrint_sveta_a_raj_srdce_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_039.html",
+      "words": 2448,
+      "chars": 14914,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 38,
+      "prev": "labyrint_sveta_a_raj_srdce_038.html",
+      "next": "labyrint_sveta_a_raj_srdce_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXIII. Šalomoun marnosti a šalby světa vyjevuje • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_040.html",
+      "words": 502,
+      "chars": 2975,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 39,
+      "prev": "labyrint_sveta_a_raj_srdce_039.html",
+      "next": "labyrint_sveta_a_raj_srdce_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXIII. Šalomoun marnosti a šalby světa vyjevuje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXIV. Šalomoun oklamán a sveden • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_041.html",
+      "words": 469,
+      "chars": 2799,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 40,
+      "prev": "labyrint_sveta_a_raj_srdce_040.html",
+      "next": "labyrint_sveta_a_raj_srdce_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXIV. Šalomoun oklamán a sveden",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXV. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými zprovázíno • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_042.html",
+      "words": 419,
+      "chars": 2704,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 41,
+      "prev": "labyrint_sveta_a_raj_srdce_041.html",
+      "next": "labyrint_sveta_a_raj_srdce_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXV. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými zprovázíno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXVI. Poutník z světa utéci chce • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_043.html",
+      "words": 435,
+      "chars": 2538,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 42,
+      "prev": "labyrint_sveta_a_raj_srdce_042.html",
+      "next": "labyrint_sveta_a_raj_srdce_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXVI. Poutník z světa utéci chce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXVII. Poutník domu trefil • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_044.html",
+      "words": 403,
+      "chars": 2353,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 43,
+      "prev": "labyrint_sveta_a_raj_srdce_043.html",
+      "next": "labyrint_sveta_a_raj_srdce_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXVII. Poutník domu trefil",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXVIII. Krista za hostě dostal • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_045.html",
+      "words": 390,
+      "chars": 2179,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 44,
+      "prev": "labyrint_sveta_a_raj_srdce_044.html",
+      "next": "labyrint_sveta_a_raj_srdce_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXVIII. Krista za hostě dostal",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XXXIX. Námluva jejich společná • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_046.html",
+      "words": 1690,
+      "chars": 9752,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 45,
+      "prev": "labyrint_sveta_a_raj_srdce_045.html",
+      "next": "labyrint_sveta_a_raj_srdce_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XXXIX. Námluva jejich společná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XL. Poutník jak proměněn • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_047.html",
+      "words": 203,
+      "chars": 1123,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 46,
+      "prev": "labyrint_sveta_a_raj_srdce_046.html",
+      "next": "labyrint_sveta_a_raj_srdce_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XL. Poutník jak proměněn",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLI. Poutník do neviditedlné církve odkázán • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_048.html",
+      "words": 790,
+      "chars": 4771,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 47,
+      "prev": "labyrint_sveta_a_raj_srdce_047.html",
+      "next": "labyrint_sveta_a_raj_srdce_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLI. Poutník do neviditedlné církve odkázán",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLII. Vnitřních křesťanů světlo • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_049.html",
+      "words": 902,
+      "chars": 5379,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 48,
+      "prev": "labyrint_sveta_a_raj_srdce_048.html",
+      "next": "labyrint_sveta_a_raj_srdce_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLII. Vnitřních křesťanů světlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLIII. SVOBODA BOHU ODDANÝCH SRDCÍ • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_050.html",
+      "words": 488,
+      "chars": 2982,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 49,
+      "prev": "labyrint_sveta_a_raj_srdce_049.html",
+      "next": "labyrint_sveta_a_raj_srdce_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLIII. SVOBODA BOHU ODDANÝCH SRDCÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLIV. Řád vnitřních křesťanů • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_051.html",
+      "words": 1141,
+      "chars": 6885,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 50,
+      "prev": "labyrint_sveta_a_raj_srdce_050.html",
+      "next": "labyrint_sveta_a_raj_srdce_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLIV. Řád vnitřních křesťanů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLV. Bohu oddaným srdcím vše lehko a snadno • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_052.html",
+      "words": 496,
+      "chars": 2961,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 51,
+      "prev": "labyrint_sveta_a_raj_srdce_051.html",
+      "next": "labyrint_sveta_a_raj_srdce_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLV. Bohu oddaným srdcím vše lehko a snadno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLVI. Svatí všeho hojnost mají • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_053.html",
+      "words": 389,
+      "chars": 2282,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 52,
+      "prev": "labyrint_sveta_a_raj_srdce_052.html",
+      "next": "labyrint_sveta_a_raj_srdce_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLVI. Svatí všeho hojnost mají",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLVII. Bezpečnost bohu oddaných lidí • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_054.html",
+      "words": 700,
+      "chars": 4223,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 53,
+      "prev": "labyrint_sveta_a_raj_srdce_053.html",
+      "next": "labyrint_sveta_a_raj_srdce_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLVII. Bezpečnost bohu oddaných lidí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLVIII. Pobožní mají odevšad pokoj • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_055.html",
+      "words": 1135,
+      "chars": 6668,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 54,
+      "prev": "labyrint_sveta_a_raj_srdce_054.html",
+      "next": "labyrint_sveta_a_raj_srdce_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLVIII. Pobožní mají odevšad pokoj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA XLIX. Pobožní mají stálou v srdci radost • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_056.html",
+      "words": 324,
+      "chars": 1943,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 55,
+      "prev": "labyrint_sveta_a_raj_srdce_055.html",
+      "next": "labyrint_sveta_a_raj_srdce_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA XLIX. Pobožní mají stálou v srdci radost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA L. Poutník křesťany podle stavů prohlédá • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_057.html",
+      "words": 815,
+      "chars": 4942,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 56,
+      "prev": "labyrint_sveta_a_raj_srdce_056.html",
+      "next": "labyrint_sveta_a_raj_srdce_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA L. Poutník křesťany podle stavů prohlédá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA LI. Smrt křesťanů věrných • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_058.html",
+      "words": 188,
+      "chars": 1105,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 57,
+      "prev": "labyrint_sveta_a_raj_srdce_057.html",
+      "next": "labyrint_sveta_a_raj_srdce_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA LI. Smrt křesťanů věrných",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA LII. Poutník spatřuje slávu Boží • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_059.html",
+      "words": 275,
+      "chars": 1656,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 58,
+      "prev": "labyrint_sveta_a_raj_srdce_058.html",
+      "next": "labyrint_sveta_a_raj_srdce_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA LII. Poutník spatřuje slávu Boží",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA LIII. Poutník za domácího Božího přijat • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_060.html",
+      "words": 7,
+      "chars": 48,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 59,
+      "prev": "labyrint_sveta_a_raj_srdce_059.html",
+      "next": "labyrint_sveta_a_raj_srdce_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA LIII. Poutník za domácího Božího přijat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA LIV. Zavírka všeho • Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_061.html",
+      "words": 591,
+      "chars": 3408,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 60,
+      "prev": "labyrint_sveta_a_raj_srdce_060.html",
+      "next": "labyrint_sveta_a_raj_srdce_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA LIV. Zavírka všeho",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labyrint světa a ráj srdce",
+      "file": "labyrint_sveta_a_raj_srdce_062.html",
+      "words": 49,
+      "chars": 306,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 61,
+      "prev": "labyrint_sveta_a_raj_srdce_061.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 47535,
+      "chars": 281496,
+      "ideas": 792
+    },
+    "chapters": {
+      "words": 47524,
+      "chars": 281437,
+      "ideas": 787
+    }
+  }
+}
