@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "labyrint_sveta_a_raj_srdce_001.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -48,9 +49,9 @@
             "filename": "labyrint_sveta_a_raj_srdce_002.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,9 +59,9 @@
             "filename": "labyrint_sveta_a_raj_srdce_003.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -68,9 +69,9 @@
             "filename": "labyrint_sveta_a_raj_srdce_004.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -81,8 +82,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Viděl sem všecky skutky..."
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_006.md",
@@ -92,7 +94,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_007.md",
@@ -102,7 +105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "K čtenáři"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_008.md",
@@ -112,7 +116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA I.O příčinách v svět putování"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_009.md",
@@ -122,7 +127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA II.Poutník dostal Všudybuda za vůdce"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_010.md",
@@ -132,7 +138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA III. Mámení se přitovaryšilo"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_011.md",
@@ -142,7 +149,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA IV.Poutník uzdy a brýlí dostal"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_012.md",
@@ -152,7 +160,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA V.Poutník se z vysoka na svět dívá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_013.md",
@@ -162,7 +171,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA VI.Osud rozděluje povolání"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_014.md",
@@ -172,7 +182,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA VII.Poutník prohlédá rynk světa"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_015.md",
@@ -182,7 +193,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA VIII.Poutník prohlédá stav a řád manželů"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_016.md",
@@ -192,7 +204,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA IX.Poutník prohlédá stav řemeslníků"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_017.md",
@@ -202,7 +215,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA X.Poutník stav učených prohlédá, nejprv veřejně"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_018.md",
@@ -212,7 +226,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XI.Poutník přišel mezi filozofy"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_019.md",
@@ -222,7 +237,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XII.Poutník prohlédá alchymií"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_020.md",
@@ -232,7 +248,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XIII.Poutník se na Rose-Crucios dívá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_021.md",
@@ -242,7 +259,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XIV.Poutník medicínu prohlédá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_022.md",
@@ -252,7 +270,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XV.Poutník spatřuje juris prudentiam"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_023.md",
@@ -262,7 +281,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XVI.Poutník se na promocí mistrů a doktorů dívá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_024.md",
@@ -272,7 +292,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XVII.Poutník prohlédá stav nábožníků"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_025.md",
@@ -282,7 +303,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XVIII.Prohlédá náboženství křesťanské"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_026.md",
@@ -292,7 +314,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XIX.Poutník stav vrchností spatřuje"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_027.md",
@@ -302,7 +325,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XX.Stav soldátský"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_028.md",
@@ -312,7 +336,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXI.Stav rytířský"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_029.md",
@@ -322,7 +347,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXII.Poutník mezi novináře trefil"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_030.md",
@@ -332,7 +358,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXIII. Poutník prohlédá hrad Fortuny; a nejprv přístup k němu"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_031.md",
@@ -342,7 +369,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXIV. Poutník způsob boháčů prohlédá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_032.md",
@@ -352,7 +380,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXV. Způsob rozkošných světa"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_033.md",
@@ -362,7 +391,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXVI. Způsob povýšených světa"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_034.md",
@@ -372,7 +402,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXVII. Sláva slovoutných v světě"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_035.md",
@@ -382,7 +413,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_036.md",
@@ -392,7 +424,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXIX. Poutník hrad královny světa, Moudrosti, prohlédá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_037.md",
@@ -402,7 +435,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXX.Poutník na palácu Moudrosti obžalován"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_038.md",
@@ -412,7 +446,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_039.md",
@@ -422,7 +457,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_040.md",
@@ -432,7 +468,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXIII. Šalomoun marnosti a šalby světa vyjevuje"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_041.md",
@@ -442,7 +479,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXIV. Šalomoun oklamán a sveden"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_042.md",
@@ -452,7 +490,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXV. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými zprovázíno"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_043.md",
@@ -462,7 +501,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXVI. Poutník z světa utéci chce"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_044.md",
@@ -472,7 +512,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXVII. Poutník domu trefil"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_045.md",
@@ -482,7 +523,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXVIII. Krista za hostě dostal"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_046.md",
@@ -492,7 +534,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XXXIX. Námluva jejich společná"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_047.md",
@@ -502,7 +545,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XL. Poutník jak proměněn"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_048.md",
@@ -512,7 +556,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLI. Poutník do neviditedlné církve odkázán"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_049.md",
@@ -522,7 +567,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLII. Vnitřních křesťanů světlo"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_050.md",
@@ -532,7 +578,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLIII. SVOBODA BOHU ODDANÝCH SRDCÍ"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_051.md",
@@ -542,7 +589,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLIV. Řád vnitřních křesťanů"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_052.md",
@@ -552,7 +600,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLV. Bohu oddaným srdcím vše lehko a snadno"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_053.md",
@@ -562,7 +611,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLVI. Svatí všeho hojnost mají"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_054.md",
@@ -572,7 +622,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLVII. Bezpečnost bohu oddaných lidí"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_055.md",
@@ -582,7 +633,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLVIII. Pobožní mají odevšad pokoj"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_056.md",
@@ -592,7 +644,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA XLIX. Pobožní mají stálou v srdci radost"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_057.md",
@@ -602,7 +655,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA L. Poutník křesťany podle stavů prohlédá"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_058.md",
@@ -612,7 +666,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA LI. Smrt křesťanů věrných"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_059.md",
@@ -622,7 +677,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA LII. Poutník spatřuje slávu Boží"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_060.md",
@@ -632,7 +688,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA LIII. Poutník za domácího Božího přijat"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_061.md",
@@ -642,15 +699,16 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "KAPITOLA LIV. Zavírka všeho"
           },
           {
             "filename": "labyrint_sveta_a_raj_srdce_062.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_062.xhtml",
             "id": 61,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -664,7 +722,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Amos Komenský",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-10T10:52:04.009Z"
+      "modified": "2022-02-10T11:04:56.277Z"
     },
     "chapters": [
       {
@@ -1127,6 +1185,6 @@
       "user": "books-are-next",
       "repo": "labyrint-sveta-a-raj-srdce"
     },
-    "generatedAt": 1644490324732
+    "generatedAt": 1644491096939
   }
 }
