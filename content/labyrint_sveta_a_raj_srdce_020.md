@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XIII.Poutník se na Rose-Crucios dívá
+title: KAPITOLA XIII\.Poutník se na Rose-Crucios dívá
+contentType: prose
 ---
 
 ### Fama Fraternitatis anno 1612 latine ac germanice edita

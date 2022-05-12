@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLIII. SVOBODA BOHU ODDANÝCH SRDCÍ
+title: KAPITOLA XLIII\. SVOBODA BOHU ODDANÝCH SRDCÍ
+contentType: prose
 ---
 
 ### Praví křesťané nepohnutí jsou

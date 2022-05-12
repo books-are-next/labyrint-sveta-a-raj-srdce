@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA VI.Osud rozděluje povolání
+title: KAPITOLA VI\.Osud rozděluje povolání
+contentType: prose
 ---
 
 ### Branný světa osud

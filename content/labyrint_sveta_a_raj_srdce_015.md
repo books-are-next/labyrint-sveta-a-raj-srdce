@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA VIII.Poutník prohlédá stav a\_řád manželů"
+title: "KAPITOLA VIII\\.Poutník prohlédá stav a\_řád manželů"
+contentType: prose
 ---
 
 ### Pracné a tesklivé do toho stavu se vpravování

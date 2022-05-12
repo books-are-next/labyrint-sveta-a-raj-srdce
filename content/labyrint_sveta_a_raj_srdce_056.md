@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XLIX. Pobožní mají stálou v\_srdci radost"
+title: "KAPITOLA XLIX\\. Pobožní mají stálou v\_srdci radost"
+contentType: prose
 ---
 
 ### Svědomí dobré ustavičné hody

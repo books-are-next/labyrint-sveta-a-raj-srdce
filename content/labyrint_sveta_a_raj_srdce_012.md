@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA V.Poutník se z\_vysoka na svět dívá"
+title: "KAPITOLA V\\.Poutník se z\_vysoka na svět dívá"
+contentType: prose
 ---
 
 ### Ven z světa nic není

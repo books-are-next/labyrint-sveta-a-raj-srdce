@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXVIII. Poutník sobě zoufati počíná a\_s\_svými vůdci se hádá"
+title: "KAPITOLA XXVIII\\. Poutník sobě zoufati počíná a\_s\_svými vůdci se hádá"
+contentType: prose
 ---
 
 ### Sapientiae apex, desperatio de rebus mundi[27](./resources/undefined)

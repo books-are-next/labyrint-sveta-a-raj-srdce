@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXVII. Sláva slovoutných v\_světě"
+title: "KAPITOLA XXVII\\. Sláva slovoutných v\_světě"
+contentType: prose
 ---
 
 ### Fama ferme vulgi opinione constat[23](./resources/undefined)

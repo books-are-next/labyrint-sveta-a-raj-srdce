@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLI. Poutník do neviditedlné církve odkázán
+title: KAPITOLA XLI\. Poutník do neviditedlné církve odkázán
+contentType: prose
 ---
 
 **_1._** „Mezitím pro utvrzení tebe v tom a pro skutečné vyrozumění potěšení tomu, k němuž sem tě nyní povolal, odsílám tě mezi jiné služebníky své, kteří prve již svět opustivše, mně se oddali, aby způsob jejich spatřil.“ „I kdež bydlí, Pane můj,“ řekl sem, „kde jich hledati budu?“ Odpověděl: „V světě mezi jinými roztroušeni bydlí, ale jich svět nezná.

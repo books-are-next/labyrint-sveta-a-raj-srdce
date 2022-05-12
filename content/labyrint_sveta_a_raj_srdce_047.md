@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XL. Poutník jak proměněn
+title: KAPITOLA XL\. Poutník jak proměněn
+contentType: prose
 ---
 
 ### Vypsání nového rodu

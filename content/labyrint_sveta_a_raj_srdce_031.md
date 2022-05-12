@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXIV. Poutník způsob boháčů prohlédá
+title: KAPITOLA XXIV\. Poutník způsob boháčů prohlédá
+contentType: prose
 ---
 
 **_1._** Řekl sem pak vůdci svému: „Nu, již bych také, co tam nahoře jest, jak paní Fortuna své hostě ctí, rád spatřil.“ „Dobře,“ řekl on a vznesl se, než sem zvěděl, se mnou zhůru, kdež paní _Fortuna_, na kouli stojeci, koruny, sceptra, regimenty, řetězy, zápony, měšce, titule a jména, medy a cukry rozdávala a teprv dále zhůru pouštěla. I pohledím na stavení hradu, kteréž o trojím ponebí bylo, a spatřím, že některé do dolních, jiné do prostředních, jiné do vrchních pokojíků uvozují. I dí mi tlumočník: „Zde dole přebývají, které paní Fortuna penězi a zbožím poctila, v prostředních pokojích ti, které rozkošemi krmí; v horních pak palácích, které slávou přiodívá, aby od jiných spatřováni, chváleni a ctěni býti museli. Některým dvojího spolu neb i všeho trojího přeje. A ti se, kam chtí, procházeti mohou. Vidíš, jak šťastná věc jest, komu se sem dostati dostane.“

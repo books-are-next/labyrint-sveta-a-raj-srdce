@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XII.Poutník prohlédá alchymií
+title: KAPITOLA XII\.Poutník prohlédá alchymií
+contentType: prose
 ---
 
 **_1._** A Všudybud dí: „Nyní aspoň poď, uvedu tě tam, kdež vrch jest vtipu lidského a tak rozkošná práce, že kdo se k ní jednou obrátí, dokud živ, pustiti ji pro ušlechtilé kochání, kteréž mysli přináší, nemůže.“ I prosil sem, aby nedlil ukázati mi toho. Takž mne uvede do jakýchsi sklepů, a aj, tu několika řady stálo ohnišť, pícek, kotlů a sklenných věcí, až se všecko blyštělo. Lidé pak chodíc snášeli a podkládali roždí; tož dmýchali, pak hasili zas, nalévajíce cosi a přelévajíce rozličně. I ptal sem se: „Kdo sou to a co dělají?“ Odpověděl mi: „Nejsubtilnější filozofi, kteříž, co slunce nebeské horkostí svou v střevách země za několik let zpraviti nemůž, dopravují, kovy všelijaké na nejvyšší stupeň vyvodíce, to jest na zlato“. „A načiž je to?“ řekl sem, „však se víc železa a jiných kovů než zlata užívá.“ „Cos ty bloud,“ řekl on. „Vždyť jest zlato nejvzácnější věc, kdo je má, chudoby se nebojí.

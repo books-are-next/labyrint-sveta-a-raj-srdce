@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA VII.Poutník prohlédá rynk světa
+title: KAPITOLA VII\.Poutník prohlédá rynk světa
+contentType: prose
 ---
 
 ### Vidí lidu rozličnost

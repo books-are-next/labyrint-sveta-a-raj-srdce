@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXII.Poutník mezi novináře trefil
+title: KAPITOLA XXII\.Poutník mezi novináře trefil
+contentType: prose
 ---
 
 ### Novináři ledačemu se diví

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA LIV. Zavírka všeho
+title: KAPITOLA LIV\. Zavírka všeho
+contentType: prose
 ---
 
 **_1._** V tom zmizelo vidění od očí mých, a já poklekna na kolena, obrátil sem oči zhůru a Slitovníku svému, jak sem uměl, poděkoval sem těmito slovy:

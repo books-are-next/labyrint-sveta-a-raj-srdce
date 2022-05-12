@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXX.Poutník na palácu Moudrosti obžalován
+title: KAPITOLA XXX\.Poutník na palácu Moudrosti obžalován
+contentType: prose
 ---
 
 ### Poutník před královnu s. Moudrost postaven

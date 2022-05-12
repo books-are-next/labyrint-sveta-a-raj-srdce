@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XI.Poutník přišel mezi filozofy
+title: KAPITOLA XI\.Poutník přišel mezi filozofy
+contentType: prose
 ---
 
 ### Veřejně

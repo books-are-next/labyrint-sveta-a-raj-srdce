@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXXIII. Šalomoun marnosti a\_šalby světa vyjevuje"
+title: "KAPITOLA XXXIII\\. Šalomoun marnosti a\_šalby světa vyjevuje"
+contentType: prose
 ---
 
 ### Eccl. 1. 2. 15. Moudrosti světské larva odkryta

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLVI. Svatí všeho hojnost mají
+title: KAPITOLA XLVI\. Svatí všeho hojnost mají
+contentType: prose
 ---
 
 ### Přestati na tom, co kdo má, pravé bohatství

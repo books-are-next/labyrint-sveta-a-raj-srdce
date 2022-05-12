@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXXVIII. Krista za hostě dostal
+title: KAPITOLA XXXVIII\. Krista za hostě dostal
+contentType: prose
 ---
 
 ### Osvícení naše z hůry jde

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLVII. Bezpečnost bohu oddaných lidí
+title: KAPITOLA XLVII\. Bezpečnost bohu oddaných lidí
+contentType: prose
 ---
 
 ### Stráž anjelská
