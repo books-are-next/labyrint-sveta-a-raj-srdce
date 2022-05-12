@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLVIII. Pobožní mají odevšad pokoj
+title: KAPITOLA XLVIII\. Pobožní mají odevšad pokoj
+contentType: prose
 ---
 
 **_1._** Jak sem prvé v světě mnoho kolotání a lopotování, fresuňků a starostí, hrůz a strachů všudy po všech stavích znamenal, tak sem tuto mnoho pokojné a dobré mysli při všechněch Bohu oddaných nalezl. Nebo ani se Boha neděsí, laskavého jeho k sobě srdce naskrze jsouc povědomí; ani v sobě, co by je kormoutilo, nenalézají, žádného v ničemž dobrém (jak již ukázáno) nemajíce nedostatku; ani z věcí vůkol stojících nepohodlí neokoušejí, nedbajíce jich.

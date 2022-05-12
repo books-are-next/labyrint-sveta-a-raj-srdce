@@ -1,6 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
+contentType: prose
 ---
 
 _Viděl sem všecky skutky, kteréž se dějí pod sluncem  

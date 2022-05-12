@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XX.Stav soldátský
+title: KAPITOLA XX\.Stav soldátský
+contentType: prose
 ---
 
 ### Ukrutnost lidská

@@ -1,7 +1,8 @@
 ---
 title: >-
-  KAPITOLA XXXV. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými
+  KAPITOLA XXXV\. Šalomounovo tovaryšstvo rozplášeno, jímáno, smrtmi ohavnými
   zprovázíno
+contentType: prose
 ---
 
 ### Šalamounovi tovaryši horlí

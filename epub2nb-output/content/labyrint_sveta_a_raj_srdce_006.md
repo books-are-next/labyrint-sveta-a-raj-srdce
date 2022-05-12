@@ -1,5 +1,6 @@
 ---
 title: Věnování
+contentType: prose
 ---
 
 _Illustrissimo ac vere generoso Domino,_

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA LII. Poutník spatřuje slávu Boží
+title: KAPITOLA LII\. Poutník spatřuje slávu Boží
+contentType: prose
 ---
 
 **_1._** Nebo aj, u výsosti seděl na trůnu svém Pán zástupů, okolo něhož byl blesk od končin nebes až do končin jejich; a pod nohami jeho byl jako křišťál, smaragd a safír, a trůn jeho jaspis a vůkol něho duha krásná. Tisícové tisíců a desetkrát tisíckrát sto tisíců anjelů stálo před ním, zpívajících jedni k druhým: „Svatý, svatý, svatý Hospodin zástupů, plná jsou nebesa i země slávy jeho.“

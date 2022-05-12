@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLII. Vnitřních křesťanů světlo
+title: KAPITOLA XLII\. Vnitřních křesťanů světlo
+contentType: prose
 ---
 
 ### Pravých křesťanů dvoje světlo

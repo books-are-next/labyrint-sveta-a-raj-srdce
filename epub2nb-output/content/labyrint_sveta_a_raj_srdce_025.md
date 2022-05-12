@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XVIII.Prohlédá náboženství křesťanské
+title: KAPITOLA XVIII\.Prohlédá náboženství křesťanské
+contentType: prose
 ---
 
 **_1._** I vida mne vůdce můj děsiti se, dí mi: „Nu, poďme, ukážiť křesťanské náboženství, kteréž na jistých Božích zjeveních založeno jsouc a nejsprostnějším i nejvtipnějším dosti činíc, jakož pravdu nebeskou jasně na světlo staví, tak zase odporné bludy poráží, a jehož ozdoba jest svornost a láska a kteréž v nesčíslných protivenstvích nepřemožené posavad zůstalo a stojí. Z čehož rozuměti snadně můžeš, že původ jeho z Boha býti musí a potěšení pravého tu že se doptati budeš moci.“ I zradoval sem se těm řečem a šli sme.

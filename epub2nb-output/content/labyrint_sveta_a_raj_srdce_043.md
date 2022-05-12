@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXXVI. Poutník z\_světa utéci chce"
+title: "KAPITOLA XXXVI\\. Poutník z\_světa utéci chce"
+contentType: prose
 ---
 
 ### Poutník utíká z světa

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA IX.Poutník prohlédá stav řemeslníků
+title: KAPITOLA IX\.Poutník prohlédá stav řemeslníků
+contentType: prose
 ---
 
 ### Co tu viděl veřejně

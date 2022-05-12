@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XLV. Bohu oddaným srdcím vše lehko a\_snadno"
+title: "KAPITOLA XLV\\. Bohu oddaným srdcím vše lehko a\_snadno"
+contentType: prose
 ---
 
 ### Boha poslouchati snadno

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXI.Stav rytířský
+title: KAPITOLA XXI\.Stav rytířský
+contentType: prose
 ---
 
 ### Šlechetství a erby zač se dávají

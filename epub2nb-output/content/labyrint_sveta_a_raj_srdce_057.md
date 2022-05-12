@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA L. Poutník křesťany podle stavů prohlédá
+title: KAPITOLA L\. Poutník křesťany podle stavů prohlédá
+contentType: prose
 ---
 
 **_1._** To až potud veřejné všech křesťanů pravých případnosti vypravoval sem; spatře pak já mezi nimi rovně jako v světě rozdílná povolání, žádostiv sem byl, jak kteří stupně svého ostříhají, také se podívati. I nalezl sem ušlechtilý opět při všem řád, až milo, ale toho již obšírně vyčítati nechci, krátce toliko něco dotknu.

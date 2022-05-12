@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA II.Poutník dostal Všudybuda za vůdce
+title: KAPITOLA II\.Poutník dostal Všudybuda za vůdce
+contentType: prose
 ---
 
 **_1._** I vyšel sem od sebe sám a ohlédati se počal, mysle, odkud a jak začíti. Vtom ihned nevím, kde se tu vezme člověk jakýsi křepkého chodu, obratného vzhledu a řeči hbité, takže mi se nohy, oči, jazyk, vše na obrtlíku míti zdál. Ten přivina se ke mně, odkud a kam bych měřil, dotazoval se. Já, že sem z domu svého vyšel a v světě se provandrovati a něco zkusiti úmysl mám.

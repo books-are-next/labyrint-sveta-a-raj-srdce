@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XIV.Poutník medicínu prohlédá
+title: KAPITOLA XIV\.Poutník medicínu prohlédá
+contentType: prose
 ---
 
 ### Anatomia

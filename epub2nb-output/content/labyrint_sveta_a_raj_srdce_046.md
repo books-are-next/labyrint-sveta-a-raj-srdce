@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXXIX. Námluva jejich společná
+title: KAPITOLA XXXIX\. Námluva jejich společná
+contentType: prose
 ---
 
 ### I blouzení naše moudrost Boží řídí

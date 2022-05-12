@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s\_houfy velikými"
+title: "KAPITOLA XXXI\\. Šalomoun na palác Moudrosti přišel s\_houfy velikými"
+contentType: prose
 ---
 
 ### Šalomoun vystoupil, Moudrosti za choť hledaje

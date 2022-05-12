@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA X.Poutník stav učených prohlédá, nejprv veřejně
+title: KAPITOLA X\.Poutník stav učených prohlédá, nejprv veřejně
+contentType: prose
 ---
 
 **_1._** I řekl ke mně vůdce můj: „Již já mysli tvé rozumím, kam tě táhne, mezi učené s tebou, mezi učené, to pro tebe vnada, to lehčejší, to pokojnější, to mysli užitečnější život.“ „Ba, tomuť jest tak,“ dí tlumočník. „Nebo co rozkošnějšího býti může, jako aby člověk, nechaje a nedbaje hmotného toho těla kvaltování, s samým všelijakých ušlechtilých věcí zpytováním zacházel? Toť v pravdě jest, což smrtedlné lidi nesmrtedlnému Bohu podobné a téměř rovné činí, aby jako vševědoucí byli, co na nebi, na zemi, v propastech jest, neb bylo, neb bude, všecko stíhajíce, všecko znajíce; ač ne všechněm v jednostejné dokonalosti, pravdať jest, toho se dostává.“ „Veďtež mne tam, proč meškáte?“ řekl sem.

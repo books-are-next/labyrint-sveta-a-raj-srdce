@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA I.O\_příčinách v\_svět putování"
+title: "KAPITOLA I\\.O\_příčinách v\_svět putování"
+contentType: prose
 ---
 
 **_1._** Když sem v tom věku byl, v kterémž se lidskému rozumu rozdíl mezi dobrým a zlým ukazovati začíná, vida já rozdílné mezi lidmi stavy, řády, povolání, práce a předsevzetí, jimiž se zanášejí, zdála mi se toho nemalá býti potřeba, abych se dobře, k kterému bych se houfu lidí připojiti a v jakých věcech život tráviti měl, roz­myslil.

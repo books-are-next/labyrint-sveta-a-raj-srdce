@@ -1,5 +1,6 @@
 ---
 title: "K\_čtenáři"
+contentType: prose
 ---
 
 **_1\._** Jeden každý tvor, i nerozumný, přirozeně k tomu se nese, aby libé a pohodlné věci sobě liboval a jich žádostiv byl; ovšem tedy člověk, v němž rozumná jemu přistvořená moc takovou tu k dobrému pohodlnému chtivost vzbuzuje. A nejen vzbuzuje, ale i na to vede, aby což více dobré, libé, pohodlné jest, to sobě více liboval a srdnatěji po tom dychtil. Odkudž dávno mezi moudrými otázka byla, kde a v čem by vrch dobrého (summum bonum) bylo, na němž by se žádost lidská stavovala, to jest jehož by dosáhna člověk myslí svou, tu odpočinouti mohl a musel, čeho víc žádati nemaje.

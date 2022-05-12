@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXIII. Poutník prohlédá hrad Fortuny; a\_nejprv přístup k\_němu"
+title: "KAPITOLA XXIII\\. Poutník prohlédá hrad Fortuny; a\_nejprv přístup k\_němu"
+contentType: prose
 ---
 
 ### Ctnost zapadlá brána k slávě

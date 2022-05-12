@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXV. Způsob rozkošných světa
+title: KAPITOLA XXV\. Způsob rozkošných světa
+contentType: prose
 ---
 
 ### Rozmazaní rozkošníci

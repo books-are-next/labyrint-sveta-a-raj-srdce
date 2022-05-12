@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XVII.Poutník prohlédá stav nábožníků
+title: KAPITOLA XVII\.Poutník prohlédá stav nábožníků
+contentType: prose
 ---
 
 ### Pohané

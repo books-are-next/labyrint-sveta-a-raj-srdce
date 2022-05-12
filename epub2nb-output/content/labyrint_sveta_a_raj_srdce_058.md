@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA LI. Smrt křesťanů věrných
+title: KAPITOLA LI\. Smrt křesťanů věrných
+contentType: prose
 ---
 
 ### Smrt křesťanů libá

@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XV.Poutník spatřuje juris prudentiam
+title: KAPITOLA XV\.Poutník spatřuje juris prudentiam
+contentType: prose
 ---
 
 ### Finis juris[14](./resources/undefined)

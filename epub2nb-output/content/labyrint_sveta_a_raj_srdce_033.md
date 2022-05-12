@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXVI. Způsob povýšených světa
+title: KAPITOLA XXVI\. Způsob povýšených světa
+contentType: prose
 ---
 
 ### Povýšených lidí nepohodlí

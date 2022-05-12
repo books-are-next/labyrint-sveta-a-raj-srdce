@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Labyrint světa a ráj srdce
@@ -12,7 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - labyrint_sveta_a_raj_srdce_002.html
+  - promo.html
   - labyrint_sveta_a_raj_srdce_005.html
   - labyrint_sveta_a_raj_srdce_006.html
   - labyrint_sveta_a_raj_srdce_007.html

@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA IV.Poutník uzdy a\_brýlí dostal"
+title: "KAPITOLA IV\\.Poutník uzdy a\_brýlí dostal"
+contentType: prose
 ---
 
 **_1._** To já slyše, zhrozím se; a co sem to k hříchu za tovaryše dostal, sobě myslím. První onen (tak sobě to mysl má rozbírala) o jakés uzdě mluvil, tento se Mámením jmenuje, královnu svou Marností mi (ač neopatrným tuším vybleknutím) jmenoval: co pak to?

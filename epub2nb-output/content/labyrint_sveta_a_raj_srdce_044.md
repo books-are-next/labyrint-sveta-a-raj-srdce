@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XXXVII. Poutník domu trefil
+title: KAPITOLA XXXVII\. Poutník domu trefil
+contentType: prose
 ---
 
 ### První obrácení jest dílo Boží

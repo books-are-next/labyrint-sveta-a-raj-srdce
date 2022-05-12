@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XLIV. Řád vnitřních křesťanů
+title: KAPITOLA XLIV\. Řád vnitřních křesťanů
+contentType: prose
 ---
 
 ### Práva Boží krátká

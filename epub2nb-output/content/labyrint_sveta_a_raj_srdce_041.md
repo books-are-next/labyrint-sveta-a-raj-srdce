@@ -1,5 +1,6 @@
 ---
-title: "KAPITOLA XXXIV. Šalomoun oklamán a\_sveden"
+title: "KAPITOLA XXXIV\\. Šalomoun oklamán a\_sveden"
+contentType: prose
 ---
 
 ### Šalomoun dští moudrostí

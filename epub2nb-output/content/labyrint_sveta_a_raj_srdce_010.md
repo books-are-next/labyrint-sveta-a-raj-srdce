@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA III. Mámení se přitovaryšilo
+title: KAPITOLA III\. Mámení se přitovaryšilo
+contentType: prose
 ---
 
 **_1._** O to když on se mnou mluví, hle, teď po straně jakýsi – nevěděl sem, muž-li či žena (nebo divně jaks zakuklený byl a okolo něho jako mlha se dělala) – k nám se přiloudě dí: „Všudybude, kam s tímto pospícháš?“ „Do světa ho vedu (dí on), prohlédnouti jej žádostiv jest.“

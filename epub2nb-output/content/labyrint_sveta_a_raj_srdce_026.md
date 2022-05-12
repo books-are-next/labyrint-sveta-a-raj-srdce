@@ -1,5 +1,6 @@
 ---
-title: KAPITOLA XIX.Poutník stav vrchností spatřuje
+title: KAPITOLA XIX\.Poutník stav vrchností spatřuje
+contentType: prose
 ---
 
 ### Vrchností rozdílní stupňové
