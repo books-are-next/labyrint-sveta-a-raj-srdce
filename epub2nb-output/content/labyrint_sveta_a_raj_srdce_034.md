@@ -3,6 +3,8 @@ title: "KAPITOLA XXVII\\. Sláva slovoutných v\_světě"
 contentType: prose
 ---
 
+<section>
+
 ### Fama ferme vulgi opinione constat[23](./resources/undefined)
 
 **_1._** „Mezitím, kteří se tu dobře chovají (řekl dále tlumočník) aneb sobě toho sic zasluhují, má paní Fortuna jiný na to prostředek, jak je nesmrtedlností poctíti.“ „I jak to medle?“ řekl sem, „toť jest slavného něco, nesmrtedlným učiněnu býti! Medle ukažte mi to.“ I obrátí mne Všezvěd a ukáže mi na témž palácu k západní straně vyšší ještě plac aneb výstupek, také pod čirým nebem, kamž z tohoto nižšího schodek a dole při něm dvérka byly, a u těch seděl jakýsi, plno v sobě ze všech stran očí a uší mající, až potvorno (jmenovali ho _Censuram vulgi_[24](./resources/undefined), _Všesudem_), jemuž se každý, kdo na plac Pověsti chtěl, nejen opovědíti, ale i všecky své věci, pro něž se nesmrtedlnosti hodným býti nadával, ukázati a k rozvážení odevzdati musil. Bylo-li v činech jeho co zvláštního a neobyčejného, dobrého neb zlého, puštěn byl zhůru; pakli nic, dole zanechán. Dostávalo se pak tam, jakž sem znamenal, nejvíc lidí z stavu vrchnosti, bojovníků a učených; z stavu nábožníků, řemeslníků a domovního méně.
@@ -40,3 +42,5 @@ contentType: prose
 [25](./resources/undefined) Dostává se jí také nehodným. _Pozn. red._
 
 [26](./resources/undefined) Kandidát nesmrtelnosti. _Pozn. red._
+
+</section>

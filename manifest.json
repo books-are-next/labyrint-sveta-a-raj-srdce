@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "komensky-labyrint-sveta-a-raj-srdce-7374dd7",
-  "revision": "7374dd7",
+  "identifier": "komensky-labyrint-sveta-a-raj-srdce-5030f9d",
+  "revision": "5030f9d",
   "readingOrder": [
     "promo.html",
     "labyrint_sveta_a_raj_srdce_005.html",
@@ -72,8 +72,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:39:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351949350
+    "date": "Fri Jun 10 2022 17:51:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883519134
   },
   "documents": [
     {
@@ -1191,9 +1191,9 @@
     {
       "title": "KAPITOLA LIII. Poutník za domácího Božího přijat",
       "file": "labyrint_sveta_a_raj_srdce_060.html",
-      "words": 7,
-      "chars": 48,
-      "ideas": 1,
+      "words": 269,
+      "chars": 1502,
+      "ideas": 2,
       "role": "chapter",
       "order": 56,
       "prev": "labyrint_sveta_a_raj_srdce_059.html",
@@ -1231,9 +1231,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 126,
-      "chars": 781,
-      "ideas": 16,
+      "words": 85,
+      "chars": 562,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "labyrint_sveta_a_raj_srdce_061.html",
@@ -1251,14 +1251,14 @@
   ],
   "totals": {
     "all": {
-      "words": 47455,
-      "chars": 281019,
-      "ideas": 782
+      "words": 47676,
+      "chars": 282254,
+      "ideas": 774
     },
     "chapters": {
-      "words": 47319,
-      "chars": 280184,
-      "ideas": 762
+      "words": 47581,
+      "chars": 281638,
+      "ideas": 763
     }
   }
 }

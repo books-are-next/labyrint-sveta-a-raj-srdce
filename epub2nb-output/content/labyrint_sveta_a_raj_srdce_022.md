@@ -3,6 +3,8 @@ title: KAPITOLA XV\.Poutník spatřuje juris prudentiam
 contentType: prose
 ---
 
+<section>
+
 ### Finis juris[14](./resources/undefined)
 
 **_1._** Naposledy tedy vedli mne do jednoho ještě širokého auditorium, v němž sem víc než kde znamenitých lidí uhlédal. Ti vůkol po stěnách malované měli zdi, sruby, ploty, parkany, šraňky, příhrady a přívory; a zase skrze ně ty i jiné mezery a díry, dveře i vrata, závory a zámky a rozličné k nim klíče, klíčky a háky. Na to vše oni ukazujíc sobě, kde se a jak přejíti můž neb nemůž, rozměřovali. I ptám se: „Co pak ti lidé dělají?“ Odpovědíno mi, že vyhlédají, jak by jedenkaždý v světě při svém ostáti, aneb také z jiného na sebe něco pokojně převésti mohl pro zachování řádu a svornosti. Řekl sem: „To je pěkná věc!“ ale podívaje se trošku, zošklivil sem ji sobě.
@@ -28,3 +30,5 @@ Protož tu mnoho bylo jednoho druhému právě na odpor, čehož k zpravení a�
 [16](./resources/undefined) Podstata práva. _Pozn. red._
 
 [17](./resources/undefined) Spletitost práva. _Pozn. red._
+
+</section>

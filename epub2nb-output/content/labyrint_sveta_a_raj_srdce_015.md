@@ -3,6 +3,8 @@ title: "KAPITOLA VIII\\.Poutník prohlédá stav a\_řád manželů"
 contentType: prose
 ---
 
+<section>
+
 ### Pracné a tesklivé do toho stavu se vpravování
 
 **_1\._** I vedou mne a přivedou k ulici, v níž pravili, že manželé bydlí, a toho rozkošného života způsob že mi pěkně ukáže. A aj, tu stála brána, o níž mi řekl, že slove _Snoubení_; před níž byl široký plac a na něm zástupové lidu obojího pohlaví, kteříž procházejíce se jeden druhému v oči nahlédali; a nejen to, ale ohledával jeden druhému uší, nosu, zubů, krků, jazyků, rukou, noh a jiných oudů, měřil také jeden druhého, jak dlouhý, široký, tlustý neb tenký jest. Tu jeden k druhému jednak přistupoval, jednak odstupoval, jednak popředu, jednak pozadu, jednak po pravém, jednak po levém boku naň sobě pohlédaje a všeho, což při něm viděl, ohleduje, zvláště pak (toho sem nejvíc viděl) měšců, váčků a tobol jeden druhému ohledoval, jak dlouhý, jak široký, jak odutý, jak tuhý neb slabý jest, měře a váže. Někdy sobě jich několik na jednu ukazovalo, z toho zase žádný; pakli jeden druhého odháněl, vadili se, tloukli, rvali, i vraždy sem tu spatřil. Některý jiného odstrče, hned zase od jiného odstrčen byl, některý jiné odežena, sám také pryč běžel. Někdo zase, nic se s examinováním nemeškaje, pochytil, co nejblíž mohl, pak se za ruce kams do té brány vedli. Takových já tu tretů plno vida, ptal sem se, co ti lidé dělají? Odpověděl mi tlumočník: „To jsou, kteříž by do ulice Manželské rádi; ale poněvadž tam skrze bránu žádný samotně nebývá puštěn, než po páru, musí sobě každý tovaryše vybrati. Pak to vybírání tu se děje, a každý, co by příhodného proň bylo, sobě hledá. Kdo najde, jde, jakž vidíš, s pobočníkem svým k bráně.“ „A což to vybírání nějak snáze nemůže býti?“ řekl sem; „jaks to hrubě pracno.“ Odpověděl: „Ne práceť to, rozkoš. Či nevidíš, jak sobě při tom vesele počínají, smějí se, zpívají, výskají? Žádný života způsob není veselejší, věř mi, jako tento.“ Takž pohledím a vidím sic některé smáti se, výskati, ale vidím také jiné sklopě hlavu s kornelem choditi, vrtěti se, sem i tam potrhovati, zase coufati, trápiti se, nespáti, nejísti, třeštiti se také. I dím: „Co pak tito?“ Odpověděl: „I to jest rozkoš.“ „Nechť jest tedy,“ řekl sem, „poďme, co se tamto dále dělá.“
@@ -38,3 +40,5 @@ contentType: prose
 ### Soud jeho o tom stavu
 
 **_9._** Ale znikna toho, nic předce nevím, co vlastně o tom stavu povědíti: více-li potěšení v něm, když se zdaří (jakož se domnívám, že mně tak bylo sedlo), čili žalosti více z přerozličných příčin. To pamatuji toliko, že i bez něho, i v něm teskno bývá, a i když se nejlép zdaří, sladké s hořkým se mísí.
+
+</section>

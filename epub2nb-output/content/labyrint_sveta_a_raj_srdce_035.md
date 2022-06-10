@@ -3,6 +3,8 @@ title: "KAPITOLA XXVIII\\. Poutník sobě zoufati počíná a\_s\_svými vůdci 
 contentType: prose
 ---
 
+<section>
+
 ### Sapientiae apex, desperatio de rebus mundi[27](./resources/undefined)
 
 **_1._** I lekl sem se, že tak nikdež nic v světě, ani na samém tom hradu Potěšení není, čehož by se mysl bezpečně, směle a cele chopiti mohla. Kteráž myšlení velmi kormoutlivě mne čím dál tím víc rozcházela, z nichž mne tlumočník můj Mámil (ač všelijak ohledával) vyraziti nijakž nemohl, až sem i zkřikl: „Ach, mého hoře, nic-liž pak na tom bídném světě potěšeného nenajdu? Však pak při všem všudy kvaltování a tesknosti plno.“ Tlumočník dí: „A kdo tím než ty sám, nechutné kyselo, vinen. Když sobě všecko ošklivíš, coť se líbiti má? Hleď na jiné, jak každý v svém stavu vesel a mysli dobré, dosti sladkosti v věcech svých maje.“ „Aneboť blázní všickni napořád,“ řekl sem, „aneb lhou; nebo aby potěšení pravého požívali, možné není.“ „Blázni i ty,“ dí Všudybud, „aby své tesknosti polehčil.“ Odpověděl sem: „Ani v to trefiti neumím. Však víš, že sem kolikrát ohledoval, a vždycky mne ze všeho vyrazilo spatřování prudkých s každou věcí proměn a bídného cíle.“
@@ -19,10 +21,14 @@ contentType: prose
 
 **_4._** Tlumočník: „Coť sem pravil, ještě pravím: Sám si sobě vinen, protože velikého cosi a neobyčejného žádáš, čehož se žádnému nedostává.“ Odpověděl sem: „A protož se trápím tím více, že ne sám já, ale celé pokolení mé bídné jest, a ještě k tomu slepé, bíd svých neznající.“ Tlumočník dí: „Já nevím, jak a čím tobě za dosti učiniti, tak zmotané hlavě. Jestližeť se ani svět ani lidé, ani práce ani zahálka, ani umění ani neumění, summou žádná věc nelíbí, co s tebou již dělati, co v tom světě víc schvalovati, nevím.“
 
-  
+</section>
+
+<section>
 
 **_5._** Všudybud na to: „Poveďme ho ještě na hrad královny naší teď uprostřed stojící, tam se snad upamatuje.“
 
 * * *
 
 [27](./resources/undefined) Vrcholem moudrosti je zoufání nad věcmi pozemskými. _Pozn. red._
+
+</section>

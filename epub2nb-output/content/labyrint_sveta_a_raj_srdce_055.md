@@ -3,6 +3,8 @@ title: KAPITOLA XLVIII\. Pobožní mají odevšad pokoj
 contentType: prose
 ---
 
+<section>
+
 **_1._** Jak sem prvé v světě mnoho kolotání a lopotování, fresuňků a starostí, hrůz a strachů všudy po všech stavích znamenal, tak sem tuto mnoho pokojné a dobré mysli při všechněch Bohu oddaných nalezl. Nebo ani se Boha neděsí, laskavého jeho k sobě srdce naskrze jsouc povědomí; ani v sobě, co by je kormoutilo, nenalézají, žádného v ničemž dobrém (jak již ukázáno) nemajíce nedostatku; ani z věcí vůkol stojících nepohodlí neokoušejí, nedbajíce jich.
 
 ### Posměchy světa za nic nemíti
@@ -28,3 +30,5 @@ contentType: prose
 ### Kormoucení pobožných snadně se rozhání dvojím prostředkem
 
 **_7._** Naposledy, byť i přicházely takové příhody (jakož sem příklady toho viděl), kteréž by jim truchlost v srdci působily, nemůže ta při nich dlouho trvati, rychle se rozplývá jako mračínko pod sluncem. A to dvojím prostředkem. Jedno, rozpomínáním se na veselou věčnost, kteráž za zdejšími těmi neřestmi stojí a jich čeká; to, co tu přebíhá, že časné jest, vyskytnouc se odchází zas, tratí se, mizí; a protož, jak po něčem z věcí těch toužiti, tak něčemu kvůli se kormoutiti, že nehodno, poněvadž to jen chřest jest jednoho okamžení. Druhé, mají doma hned vždycky hostě, s nimž porozmluvíc všechnu tesknost, by sebe větší byla, zahnati mohou. Ten jest Bůh, utěšitel jejich, k němuž oni v srdci svém se vinou domácky a odevřeně, co je trápí, přednášejíce. Ta jest smělá doufánlivost jejich, že s každou hned věcí ku Pánu Bohu běží, každé své přečinění, každé nedočinění, každý nedostatek, každou mdlobu, každou bolest, každé toužení do otcovského jeho klína vysýpajíce a se vším všudy jemu se svěřujíce. Kterouž synovskou laskavou k sobě dověrnost poněvadž nemůže Pán Bůh než libovati, nemůž také než udělovati jim potěšení svého, nýbrž i posily k snášení útrpností dodávati; takže čím více se obnovují a rozhojňují utrpení při nich, tím více se také obnovuje a rozhojňuje v srdci jejich pokoj Boží, kterýž převyšuje všeliký rozum.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA XXV\. Způsob rozkošných světa
 contentType: prose
 ---
 
+<section>
+
 ### Rozmazaní rozkošníci
 
 **_1._** Všezvěd dí: „Poďmež tedy zhůru, tam jinakší věci uhlédáš, slibujiť, samy rozkoše.“ I vejdeme po schodech do první síně; a aj, tu loží měkkými peřinami postlaných, visutých a kolíbavých několik řadů, po nichž se někteří váleli, služebníků s oháňkami, fochry a jinými nástroji k všelijaké službě hotových plno vůkol sebe majíce. Vstával-li který, ruce se hned ze všech stran podkládaly; oblékal-li se, ne jiná než hedvábná měkká roucha se podávala. Bylo-li kam přejíti potřebí, na stolicích polštáří postlaných přenášeli. „Nu, tu, hle, máš pohodlí, jehožs hledal,“ dí tlumočník. „Co nad to žádati můžeš? Tak mnoho všeho dobrého míti, aby se o nic nestaral, ničeho nedotýkal, co duše ráčí, všeho hojnost měl, a ani zlému větru na sebe vanouti nedal, není-li to blahoslavená věc?“ Odpověděl sem: „Ovšem žeť tu hned veseleji než v dolních těch mučírnách, ne všecko mi se však i tu podobá.“ „Co opět?“ řekl on. A já: „Že ty lenochy s vypuklýma očima, odutou hlavou, oteklým břichem, nedotklivými oudy jako bolavým vředem vidím; zavadí-li kde, neb se kdo oň otře, neb na něj odporný vítr zavane, hned mu zle. Stojatá voda hnije a smradí se, slýchával sem; tuto pak toho příklady vidím. Také tito života nic neužívají, poněvadž ho přespějí a přezahálejí. Nic to pro mne není.“ „Divnýs ty filozof,“ dí tlumočník.
@@ -46,3 +48,5 @@ Naposledy viděl sem, že to na těch rozkoše palácích poslední již byl, od
 [21](./resources/undefined) _Morbus Gallicus_ = francouzská nemoc, syfilis. _Pozn. red._
 
 [22](./resources/undefined) Chlípnost, propast zoufalství. _Pozn. red._
+
+</section>

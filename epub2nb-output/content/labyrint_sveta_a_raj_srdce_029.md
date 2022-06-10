@@ -3,6 +3,8 @@ title: KAPITOLA XXII\.Poutník mezi novináře trefil
 contentType: prose
 ---
 
+<section>
+
 ### Novináři ledačemu se diví
 
 **_1._** Když nadcházíme k bráně, spatřím po levé straně na rynku hromadu lidí a Všudybud dí: „Ej, těchtoť míjeti nemusíme.“ „Což tu mají?“ řekl sem. On: „Poď a viz!“ I přijdeme mezi ně, a aj, oni po dvou, po třech stojíce, točí jeden proti druhému prstem, kroutí hlavou, pleská rukama, drbe se za uši, naposledy jedni výskají, druzí pláčí. „I co se pak to tu zpravuje?“ dím já, „komedii-li tito jakou strojí?“ „Ba nemějž ty toho za hru,“ dí tlumočník. „Opravdovéť oni věci mají, jichž jim divno, směšno, hněvno, jak která.“ „Vždyť bych já rád věděl,“ řekl sem, „co to jest, čemuž se diví, čemu smějí, nač hněvají.“ Vtom pohlédna spatřím, ani se s píšťalkami jakýmis pěstují, a jeden druhému přichýle se do ucha píská; kterýž pískot byl-li libý, plesali; pakli skřípavý nějaký, troudili se.
@@ -26,3 +28,5 @@ contentType: prose
 ### Nepohodlí bez nich i z nich
 
 **_6._** Ale opět sem nepohodlí spatřil, že, když kdo na to, co se okolo píská, pozoru nedal, od ledakuds mu leccos na krk připadlo. Naposledy však i to sem tu viděl, že s těmi píšťalami zacházeti ne všelijak bezpečno bylo. Nebo poněvadž hlaholové ti rozdílným uším rozdílní byli, různice i rvačky nejednou odtud povstávaly; jakž sem se i sám s příhodou potkal. Dopadna já jedné bystře znějící píšťalky, podal sem příteli svému, ale jiní přejmouc ji, o zem dali a pošlapali, na mne se, že takové věci roztrušuji, potrhujíc. Takže vida je vztekle rozpálené, prchati sem musel. Že pak vůdcové moji vždy mne hradem Fortuny těšili, šli sme k němu.
+
+</section>

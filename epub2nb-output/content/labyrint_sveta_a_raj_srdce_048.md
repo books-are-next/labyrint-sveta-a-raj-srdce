@@ -3,6 +3,8 @@ title: KAPITOLA XLI\. Poutník do neviditedlné církve odkázán
 contentType: prose
 ---
 
+<section>
+
 **_1._** „Mezitím pro utvrzení tebe v tom a pro skutečné vyrozumění potěšení tomu, k němuž sem tě nyní povolal, odsílám tě mezi jiné služebníky své, kteří prve již svět opustivše, mně se oddali, aby způsob jejich spatřil.“ „I kdež bydlí, Pane můj,“ řekl sem, „kde jich hledati budu?“ Odpověděl: „V světě mezi jinými roztroušeni bydlí, ale jich svět nezná.
 
 ### Nová uzda a brýle
@@ -24,3 +26,5 @@ Ty pak aby je poznal, a při tom, poněvadž v světě ještě, dokud tě odtu
 ### Církev na ruby obrácený svět
 
 **_5._** To já tu u dveří spatře, hlouběji sem za to zastření vešel a na jejich věci (nejprve veřejně všechněch, potom v některých povoláních) s nevypravitedlným potěšením se dívaje, všecko tu světu na odpor sem spatřil. V světě zajisté všudy slepotu a mrákotu, tuto jasné světlo sem spatřil; v světě šalbu, tuto pravdu; v světě neřádů plno, tuto sám ušlechtilý řád; v světě kvaltování, tuto pokoj; v světě starosti a fresuňky, tuto radost; v světě nedostatky, tuto hojnost; v světě otroctví a porobu, tuto svobodu; v světě vše nesnadné a těžké, tuto vše lehké; v světě žalostné odevšad příhody, tuto samu bezpečnost. Což vše šířeji trošku pooznámím.
+
+</section>

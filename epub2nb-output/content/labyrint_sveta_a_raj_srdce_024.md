@@ -3,6 +3,8 @@ title: KAPITOLA XVII\.Poutník prohlédá stav nábožníků
 contentType: prose
 ---
 
+<section>
+
 ### Pohané
 
 **_1._** I provedou mne průchody jakýmis a přijdeme na rynk, kdež množství na rozličnou formu stavených chrámů a kaplic stálo a vycházejících a vcházejících zástupové. I vkročíme do nejbližšího, a aj, tu po všech stranách rytiny a slitiny mužů a žen, též všelijakých zvířat, ptactva, zeměplazů, stromoví a zrostlin; tolikéž slunce, měsíce a hvězd až i ďáblů mrzutých plno. Z přicházejících pak každý sobě, co se mu vidělo, vybera, před tím klekl, líbal, kadil, pálil. Kdež ač mi divná byla všech tu svornost, že každý takměř svou věc jinak konaje, trpěli sobě to a pokojně každý každého při jeho smyslu nechával (čehož sem jinde potom nespatřil), avšak mne i puch jakýsi smrdutý tu zarážel i hrůza podjímala, takže sem ven pospíšil.
@@ -30,3 +32,5 @@ Vtom sstupujíce se do hromady, nahlédali do jakýchsi knih; k nimž přistoup
 ### Mezi Peršany a Turky o Alkorán roztržitost
 
 **_6._** I vejdeme do kostela zase, a aj, tu mezi těmi, kteříž onu tabuli nosili, také hádka o toho, jakž sem srozuměl, nejpřednějšího krta. Jedni zajisté pravili, že sám on drobnější ty krtice spravuje; jiní, že má dva pomocníky. O kterouž věc tak se neukojitedlně táhali, že naposledy tak rovně tu s sebou jako vně s jinými železem a ohněm disputovali, až hrozno.
+
+</section>

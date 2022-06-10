@@ -3,6 +3,8 @@ title: KAPITOLA XIV\.Poutník medicínu prohlédá
 contentType: prose
 ---
 
+<section>
+
 ### Anatomia
 
 **_1._** Takž mne mezi fyzickým a chemickým auditorium uličkami jakýmis provedouc, postaví na jiném placu, kdež sem hrozné divadlo spatřil. Rozpjali sobě člověka, a řežíc jeden oud za druhým, párali se mu ve všech vnitřnostech, s chutí sobě, co kde našli, ukazujíce. I řekl sem: „Ale což toto za ukrutnost, s člověkem jako s hovadem zacházeti?“ „Musí to býti,“ dí tlumočník, „to jejich škola.“
@@ -18,3 +20,5 @@ contentType: prose
 * * *
 
 [13](./resources/undefined) Praxe lékařská. _Pozn. red._
+
+</section>

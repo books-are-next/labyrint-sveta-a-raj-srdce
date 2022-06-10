@@ -3,6 +3,8 @@ title: "KAPITOLA V\\.Poutník se z\_vysoka na svět dívá"
 contentType: prose
 ---
 
+<section>
+
 ### Ven z světa nic není
 
 **_1._** To když já přemýšlím, anť my se (nic nevím jak) na jakés náramně vysoké věži octneme, takže sem se sobě pod oblaky býti zdál, z níž já dolů pohlédna, vidím na zemi město jakési, na pohledění pěkné a stkvělé a široké velice, však jehož sem vždy terminy a meze ze všech stran znamenati mohl. A bylo okrouhle vystavené, zdmi a valy opatřené, a místo příkopy hlubina jakási tmavá, ani břehů, ani dna, jakž mi se zdálo, nemající. Nebo jen nad městem světlo bylo, za ohradou dále čirá tma.
@@ -38,3 +40,5 @@ Rynk prostřední pro všecky jest. Nebo se tu ze všech stavů lidé scházejí
 ### Způsob dětinského věku
 
 **_8._** Všudybud dí: „Počkej, ještě mu odtud ukáži, kamž potom nepůjdem. Ohlédni se teď nazpět k východu; vidíš-li, jak se tu z té tmavé brány cosi čmýrá a sem leze?“ „Vidím,“ řekl sem. A on zase: „To sou lidé vnově se na svět (sami odkud nevědouc) dostávající, aniž se ještě znají, a aby lidmi byli, vědí: protož jest okolo nich tma a nic, jen vřesku a pláče trochu. Ale když tou ulicí jdou, pomalu se jim šeří a svitá, až teď do této pod námi brány přijdou; tu co se děje, poďme, pohledíme.“
+
+</section>

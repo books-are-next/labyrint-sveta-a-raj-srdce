@@ -3,6 +3,8 @@ title: KAPITOLA XXIV\. Poutník způsob boháčů prohlédá
 contentType: prose
 ---
 
+<section>
+
 **_1._** Řekl sem pak vůdci svému: „Nu, již bych také, co tam nahoře jest, jak paní Fortuna své hostě ctí, rád spatřil.“ „Dobře,“ řekl on a vznesl se, než sem zvěděl, se mnou zhůru, kdež paní _Fortuna_, na kouli stojeci, koruny, sceptra, regimenty, řetězy, zápony, měšce, titule a jména, medy a cukry rozdávala a teprv dále zhůru pouštěla. I pohledím na stavení hradu, kteréž o trojím ponebí bylo, a spatřím, že některé do dolních, jiné do prostředních, jiné do vrchních pokojíků uvozují. I dí mi tlumočník: „Zde dole přebývají, které paní Fortuna penězi a zbožím poctila, v prostředních pokojích ti, které rozkošemi krmí; v horních pak palácích, které slávou přiodívá, aby od jiných spatřováni, chváleni a ctěni býti museli. Některým dvojího spolu neb i všeho trojího přeje. A ti se, kam chtí, procházeti mohou. Vidíš, jak šťastná věc jest, komu se sem dostati dostane.“
 
 ### Bohatství pouta a břemena
@@ -12,3 +14,5 @@ contentType: prose
 ### Mámení boháčů
 
 **_3._** I hledím a spatřím svůj div, jak se oni převelice v tom opoutání svém kochali. Tento sobě počítal kroužky řetězu svého, jiný je rozbíral a zase skládal, jiný řetězu sobě rukou potěžkával, jiný ho na pídi měřil, jiný k ústům bera líbal, jiný ho před mrazem, horkem a úrazem chráně, šátkem obvinoval. Někteří dva neb tří se sstoupíc, měřili je sobě a potěžkávali jeden proti druhému. Kdo svůj lehčejší znamenal, kormoutil se a bližnímu záviděl, kdo větší a těžší měl, chodil vůkol, dul se, honosil a chlubil. Ač mezi těmi opět někteří tiše v koutě sedíc, v velikosti řetězů a pout svých tajně se kochali, nestojíc o to, aby jiní viděli; závisti, za to mám, a krádeže se bojíce. Jiní zase plné truhly měli hrudí a kamení, kteréž sem i tam překládali, odmykali a zamykali, nikam odtud, aby o to nepřišli, nesmějíce ani nespějíce. Někteří ještě ani truhlám nevěřili, navázali a navěšeli toho okolo sebe tak mnoho, že ani choditi, ani státi s tím nemohli, než leželi toliko, dychtíce a chroptíce. Což já vida řekl sem: „Ale toto-liž mají, pro všecky svaté, šťastní lidé slouti! An sem dole, práce a kvaltování lidská prohlédaje, nic bídnějšího nespatřil, jako toto štěstí jest.“ Všezvěd řekl: „Pravda jest sic (což tajiti?), že míti toliko tyto Fortuny dary a jich neužívati větší starost jest než rozkoš.“ „Ale tím paní Fortuna vinna není,“ dí tlumočník, „že někdo darů jejich užívati neumí. Ona se s svým neskoupí; než ti někteří stuchlící, ani sobě, ani jiným ku pohodlí toho obrátiti neumějící. Ač naposledy, dělej ty z toho, co dělej, předceť jest to veliké štěstí _míti_.“ „Já o takové štěstí, jaké tu vidím, nestojím,“ řekl sem.
+
+</section>

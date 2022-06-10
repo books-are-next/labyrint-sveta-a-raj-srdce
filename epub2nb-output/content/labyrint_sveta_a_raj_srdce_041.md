@@ -3,6 +3,8 @@ title: "KAPITOLA XXXIV\\. Šalomoun oklamán a\_sveden"
 contentType: prose
 ---
 
+<section>
+
 ### Šalomoun dští moudrostí
 
 **_1._** Já vida to, prosím vůdců svých, že bych také rád na to, co tam bude, se podíval. Všudybud povolil hned a šel, tlumočník také. I přijdeme a najdeme Šalomouna s houfy jeho v ulici Učených, an s podivením všech vypravuje o přirození stromů, počna od cedru, kterýž jest na Libánu, až do mchu, kterýž roste na zdi; též o hovadech a ptácích a zeměplazích a rybách a o podstatě světa a moci živlů a o spořádání hvězd a o přemyšlování lidském etc. I přicházeli ze všech národů poslouchati moudrosti jeho. Tím zveleben byv nadmíru, počal se sám sobě zalibovati; zvláště když Přívětivost a Úlisnost, přitočíce se opatrně, před obličejem všech lidí chvály jeho vyvyšovati začaly.
@@ -18,3 +20,5 @@ contentType: prose
 ### V stavu pak nábožníků dokonce klesl
 
 **_4._** On pak přejda ulici tu, ubíral se s houfem svým dále, a vstoupiv do ulice Nábožníků, kam jej to spřipínané nešťastné tovaryšstvo táhlo, tam se vtáhnouti dal mezi zvířata a zeměplazy, draky a žížaly jedovaté, a s těmi sobě smutnou kratochvíl začal.
+
+</section>

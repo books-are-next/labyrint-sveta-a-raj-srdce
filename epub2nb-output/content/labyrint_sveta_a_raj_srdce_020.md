@@ -3,6 +3,8 @@ title: KAPITOLA XIII\.Poutník se na Rose-Crucios dívá
 contentType: prose
 ---
 
+<section>
+
 ### Fama Fraternitatis anno 1612 latine ac germanice edita
 
 **_1._** A hned tu na placu uslyším trouby zvuk, po němž ohlédna se, vidím jezdícího na koni a svolávajícího filozofy. Kteříž když se stádně odevšad valili, začal jim pěti jazyky o nedokonalosti svobodných umění a celé filozofie vypravovati, a kterak někteří slavní, od Boha na to vzbuzeni muži takové všecky nedostatky již vyšetřili a doplnili a moudrost lidskou na ten stupeň, na kterémž v ráji před pádem byla, přivedli. Zlato dělati že mezi sta kusy nejmenší u nich jest; proto, že celá natura jim nahá již a odkrytá jest, kterému tvoru formu odníti aneb dáti chtějí, že mohou dle libosti. Jazyky všech národů že umějí, co se po všem okršlku zemském i na Novém světě děje, všecko vědí a s sebou, i vzdáleni jsouce, by na tisíc mil bylo, rozmlouvati umějí. Lapidem že mají a ním všelijaké nemoci dokonale hojí i dlouhověkost dávají. Neb Hugo Alverda, jejich praepositus, že již 562 let stáří jest a kolegové jeho ne mnoho níž. A ač po tolik set let se tajili, sami toliko (sedm jich) v napravování filozofie pracujíce; nyní však, poněvadž již k dokonalosti vše přivedeno, a nadto vědí, že všemu světu reformací nastává, déle již tajiti že se nechtějí, nýbrž zjevně se ohlašujíce, s jedním každým drahými tajemstvími svými se sděliti hotovi jsou, kohož by jen hodného seznali. Ohlásí-li se jim kdo v jakémkoli jazyku a národu, že jich všecko dojde a žádný bez laskavé odpovědi zanechán nebude. Pakli kdo nehodný bude, kterýž by z lakomství toliko neb z všetečnosti dojíti jich žádostiv byl, ten že se nedoptá nic.
@@ -30,3 +32,5 @@ Každému pak, kdo kupoval, zapovědělo se odvírati. Nebo tajné té moudrosti
 [11](./resources/undefined) Brána moudrosti; Tvrz vědy; Učiliště veškerenstva; Dobro makrokosmu i mikrokosmu (velkého i malého světa); Souzvuk obojího světa; O křesťanské tajné nauce; Jeskyně Přírody; Hrad první hmoty; O božské magii; Trojnásobná trojice obecná; Vítězná pyramida; Aleluja, atd. _Pozn. red._
 
 [12](./resources/undefined) Synové vědy. _Pozn. red._
+
+</section>

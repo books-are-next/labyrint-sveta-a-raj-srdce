@@ -3,6 +3,8 @@ title: KAPITOLA XVIII\.Prohlédá náboženství křesťanské
 contentType: prose
 ---
 
+<section>
+
 **_1._** I vida mne vůdce můj děsiti se, dí mi: „Nu, poďme, ukážiť křesťanské náboženství, kteréž na jistých Božích zjeveních založeno jsouc a nejsprostnějším i nejvtipnějším dosti činíc, jakož pravdu nebeskou jasně na světlo staví, tak zase odporné bludy poráží, a jehož ozdoba jest svornost a láska a kteréž v nesčíslných protivenstvích nepřemožené posavad zůstalo a stojí. Z čehož rozuměti snadně můžeš, že původ jeho z Boha býti musí a potěšení pravého tu že se doptati budeš moci.“ I zradoval sem se těm řečem a šli sme.
 
 ### Křest
@@ -41,7 +43,9 @@ contentType: prose
 
 **_10._** Mezitím vida já, že všickni tito nad sebou starší své (biskupi, arcibiskupi, opatové, proboštové, děkanové, superintendenti, inspectores etc. nazvané) mají, muže vážné a vzácné, jimž všickni poctivost činili, myslil sem: „Proč pak oni těchto nižších v řádu nedrží?“ A chtěje příčině vyrozuměti, vejdu za jedním do pokojíka jeho, potom za druhým, třetím, čtvrtým etc. a vidím je zaměstknané hrubě, že neměli kdy k oněm dohlédati. Zaměstknání pak jejich (mimo nejedny věci s oněmi společné) bylo s rejstry důchodů a pokladů (jakž pravili) církevních. I řekl sem: „Omylem jim tuším _duchovní_ otcové říkají; _důchodní_ otcové slouti by měli.“ Odpověděl tlumočník: „Musíť o to péče býti, aby církev v tom, co ji Pán Bůh přeje a od pobožných předků nadáno, nehynula.“ Vtom vystoupě z nich jeden, na pasu dva visuté klíče mající (jmenovali ho Petrem), řekl: „Muži bratří, není slušné, abychom my, opouštějíc slovo Boží, přisluhovali stolům a truhlám. Vyberme muže dobropověstné a poručme jim tu práci, sami pak pilní buďme modliteb a služby slova.“ _(_Skut. 6.) Což já slyše, zradoval sem se, protože to podle zdání mého dobrá rada byla. Ale z nich žádný tomu rozuměti nechtěl; počítali, přijímali, vydávali předce sami, modlitby a službu slova jiným poroučejíce, aneb běžně odbývajíce.
 
-  
+</section>
+
+<section>
 
 **_11._** Umřel-li z nich který a péče prvotnosti na jiného přijíti měla, spatřil sem nemálo obcházení, nahlédání, přímluv shledávání, každý se k té pořádce, dřív než by místo vychládlo, tlačil. Ten pak, který prázdné místo osaditi měl, bral od nich a o nich hlasy, kteříž velmi rozdílní byli. Jeden se hlásal býti krevným přítelem, druhý po ženě příbuzným; třetí, že dávno již starším sloužil, odměny se nadál; čtvrtý, že slib měl, tím se troštoval; pátý pro své z poctivých rodičů zplození na poctivé místo posazení čekal; šestý schválení sebe odjinud vyžádané předstíral; sedmý dárky podstrkoval; osmý, hlubokých, vysokých a širokých smyslů jsa, místa sobě, kde by se rozprostříti mohl, žádal; a nevím co toho víc. Což já spatře, řekl sem: „Toť snad není řád, tříti se na taková místa, však by se tu na zavolání čekati mělo.“ Tlumočník odpoví: „A což by bezděčných volali? Musíť se, kdo k tomu úmysl má, ohlásiti.“ „Já sem opravdu myslil,“ dím já, „že se tu na Boží zavolání čekati musí.“ On zase: „A co mníš, že Bůh někoho z nebe zavolá? Boží zavolání jest přízeň starších, kteréž sobě každému, kdo se k zavolání hotoví, dobývati volno jest.“ „Vidím tedy,“ řekl sem, „že tuto k službě církve žádného hledati a doháněti netřeba, odháněti spíše. Mezi tím, má-li se vždy přízně hledati, tak by se hledati ji mělo, aby každý pokorou, tichostí, pracovitostí církvi milým činiti se hleděl, a ne, jakž já tu vidím a slyším. Nechť je, co chce, neřádové jsou toto.“
 
@@ -76,3 +80,5 @@ Ale, ach, tu sem přehlédl, od nešťastného svého Mámila zmámen byv; tu se
 ### Příhoda jeho v tom stavu
 
 **_18._** Nepominu mlčením, co mne ještě víc v té ulici potkalo. Namlouval mne můj Všudybud, abych se mezi duchovníky dal, jistě mi to, že já osudem do toho stavu náležím. Jakož, přiznám se, že mi to k mysli bylo, jakkoli sem obyčejů jejich ne všech liboval. I dám se navésti, vezmu kápi a kuklu, vstoupím tu i tam vedle jiných na výstupek, až mi i vlastní ukázán. Ale hledě já po nich, vidím, že mi jedni hřbet obracejí, druzí hlavami kroutí, třetí na mne okem mhourají, čtvrtí prstem hrozí, pátí vidličky ukazují. Naposledy někteří se oboříc, seženou mne a vstaví jiného, hrozíc, že na tom dosti nebude. Já lekna se běžím pryč, k svým vůdcům řka: „Ale bídnějšíhož toho světa! Však se pak s jedním všecko trhá!“ „Bezpochyby,“ řekl tlumočník, „proč se nemáš na pozoru, aby sobě lidí nedráždil? Kdo s lidmi býti chce, k lidem se formovati musí, ne tak jako ty všudy z hloupa tesati.“ „Jižť já nevím,“ řekl sem, „tedyť ale všeho tak nechati.“ „Ne tak, ne tak,“ dí Všudybud, „nemusíme zoufati. Nebude-li z tebe to, bude něco jiného. Poď jen, hleďme dál;“ a ujma mne za ruku, vede.
+
+</section>

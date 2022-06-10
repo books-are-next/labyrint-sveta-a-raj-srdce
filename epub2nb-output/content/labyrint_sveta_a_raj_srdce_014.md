@@ -3,6 +3,8 @@ title: KAPITOLA VII\.Poutník prohlédá rynk světa
 contentType: prose
 ---
 
+<section>
+
 ### Vidí lidu rozličnost
 
 **_1._** I dí mi můj vůdce: „Poněvadž všecko prohlédati máš, nejdřív jděme na rynk.“ I vyvede mne. A aj, nesčíslné zástupy vidím jako mlha. Nebo tu ze všeho světa jazyků a národů, všelijakého věku, zrostu, pohlaví, stavu, řádu a povolání lidé byli. Na něž nejprv hledě, vidím předivné jich sem tam motání jako při rojení včel a mnohem divněji.
@@ -66,3 +68,5 @@ contentType: prose
 * * *
 
 [1](./resources/undefined) A smrti své je každý strůjcem. _Pozn. red._
+
+</section>

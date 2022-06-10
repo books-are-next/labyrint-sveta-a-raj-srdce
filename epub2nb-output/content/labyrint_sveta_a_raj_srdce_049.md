@@ -3,6 +3,8 @@ title: KAPITOLA XLII\. Vnitřních křesťanů světlo
 contentType: prose
 ---
 
+<section>
+
 ### Pravých křesťanů dvoje světlo
 
 **_1._** Svět, a kdož v něm tápá, domněním toliko téměř se řídí, v činech svých jedni druhých jen se držíc, omatem jako slepí všecko dělajíc, tytýž tu i tam zavazujíc a ustrkujíc. Ale těmto jasné dvoje vnitř světlo svítí, _světlo rozumu a světlo víry_; kteréž oboje Duch svatý řídí.
@@ -30,3 +32,5 @@ contentType: prose
 ### K hrůze zlým
 
 **_7._** Než spatřil sem zase hroznou a strašlivou k způrným a nevděčným zuřivost, jak je hněvivě prchlivostí svou stíhá a dostíhá, kamkoli se obracejí, takže ujíti ruce jeho nemožné a upadnouti v ní nesnesitedlné. Summou, tu všickni ti Bohu oddaní spatřují, jak hrůza a velebnost Boží nade vším panuje, a jeho toliko vůlí všecky největší i nejmenší věci se dějí.
+
+</section>

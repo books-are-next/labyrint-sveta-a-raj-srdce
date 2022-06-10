@@ -3,6 +3,8 @@ title: KAPITOLA XXI\.Stav rytířský
 contentType: prose
 ---
 
+<section>
+
 ### Šlechetství a erby zač se dávají
 
 **_1._** „Podívej se aspoň,“ dí tlumočník, „jaká počestnost, kdo se tu hrdinsky chová a skrze meče, oštípy, šípy a koule probije.“ Takž mne vedou na jakýs palác, kdež uzřím sedícího pod majestátem a některých, ježto sobě zmužileji počínali, před sebe povolávajícího. I přicházeli mnozí, nesouce s sebou leby, hnáty, žebra, pěsti, měšce a váčky nepřátelům zodtínané a zodjímané, což jim chváleno bylo. A ten pod majestátem dával jim za to cosi malovaného a zvláštní jakési před jinými svobody, což oni na žerď nastrčíce, tak na odivu všechněm nosili.
@@ -22,3 +24,5 @@ contentType: prose
 ### Cesta k hradu Fortuny
 
 **_5._** Když jdeme, dí mi tlumočník: „Nu, jižs prohlédl práce a kvaltování lidská, a nezlíbiloť se nic; protože se snad domníváš, že mimo práci lidé ti nic nemají. Ale věz, že všecky ty práce k odpočinutí jsou cesta, k němuž naposledy všickni, kdo sebe v prácech nelitovali, přicházejí; že totiž, když statku a zboží aneb slávy a poctivosti aneb pohodlí a rozkoší dosáhnou, mysl jejich dosti se v čem kochati má. Protož již tě ale k hradu Potěšení povedeme, aby se, jaký cíl jest prací lidských, podíval.“ Čemuž sem se zradoval, tam sobě jisté mysli odpočinutí a potěchu slibuje.
+
+</section>
