@@ -3,6 +3,8 @@ title: KAPITOLA XXXVIII\. Krista za hostě dostal
 contentType: prose
 ---
 
+<section>
+
 ### Osvícení naše z hůry jde
 
 **_1._** O tom já sám s sebou přemyšluji, a co dál bude, čekám. A aj, zvrchu zastkví se světlo jasné, k němuž já očí pozdvihna, spatřím vrchní to okno plné blesku, v kterémž, aj, blesku spouští se ke mně dolů jakýsi, postavou sic podobný nám lidem, ale jasností právě Bůh. Jehož obličej, ačkoli se náramně stkvěl, očím však lidským snesitedlný byl; aniž z něho hrůza šla, ale libost jakási, jíž sem podobného něco v světě nikdež neznamenal. Ten tedy, sama vlídnost, sama ochotnost, těmito nejprv ke mně přemilými slovy promluvil:
@@ -14,3 +16,5 @@ contentType: prose
 ### Oddání se Pánu Ježíši celé
 
 **_3._** Já ty řeči slyše, a že to můj Spasitel, Ježíš Kristus, o němž sem i prvé v světě povrchně něco slýchal, jest, srozuměv, ne jako v světě s bázní a pochybováním, ale s plným potěšením a celou dověrností ruce sepna a jemu podávaje, řekl sem: „Teď jsem, Pane můj Ježíši! Vezmi mne sobě, tvůj chci býti a zůstávati na věky. Mluv služebníku svému a dej, ať poslouchám. Pověz, co chceš, a dej, ať oblibuji; vzlož, coť se líbí, a dej, ať nesu; obrať mne, k čemu chceš, a dej, ať stačuji; poruč, co chceš, a co poroučíš, dej; nechť sem já ničímž, aby ty sám všecko byl!“
+
+</section>

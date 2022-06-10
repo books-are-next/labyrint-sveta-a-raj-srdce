@@ -3,6 +3,8 @@ title: KAPITOLA XLIV\. Řád vnitřních křesťanů
 contentType: prose
 ---
 
+<section>
+
 ### Práva Boží krátká
 
 **_1._** Svobodné sic chce míti Pán Bůh dítky své, avšak nesvévolné. Protož je jistými řády ohradil, lépe a dokonaleji, než sem podobného co kde v světě znamenati mohl. Tam zajisté všudy plno neřádů; někudy proto, že žádného jistého spořádání nemají; někudy, že majíc, k němu nestojí, sem viděl. Ale tito v zastření bydlící přeušlechtilý řád i mají, i jeho ostříhají. Mají zajisté od samého Boha sobě vydaná práva, plná spravedlnosti, jimiž nařízeno jest: I. Aby každý Bohu oddaný jej toliko jediného Boha měl a znal. II. Jemu v duchu a pravdě, bez fintování sobě nějaké tělesnosti, sloužil. III. Jazyka svého ne k urážení, ale oslavování důstojného jeho jména užíval. IV. Časy a chvíle k službě jeho nařízené ne k jinému než k vnitřní i zevnitřní jeho službě vynakládal. V. Rodičům a jiným sobě od Boha představeným poddán byl. VI. Životu bližního neškodil. VII. Čistoty těla ostříhal. VIII. Cizích věcí sobě neosoboval. IX. Falše a ošemetnosti se vystříhal. X. A naposledy i mysl v šraňcích a mezech zřízených zdržoval.
@@ -30,3 +32,5 @@ contentType: prose
 ### A mezi sebou domácnost
 
 **_7._** Odtud jde jich k sobě vespolek domácnost a odevřenost a svaté tovaryšství, takže se všickni vespolek, jakkoli dary a povoláními od sebe rozdílní, za bratří drží a mají. Nebo praví oni, že všickni sme z jedné krve pošlí, jednou krví vykoupeni a obmyti, jednoho Otce dítky, jednoho stolu užívající, jednoho dědictví v nebesích čekající etc.; jeden nad druhého, krom věcí případných, že nic nemá. Protož sem viděl, jak jedni druhé přívětivostí i počestností předcházeli i ochotně sobě vespolek sloužili a každý místa svého k vzdělání jiných užíval. Kdo radu měl, radil; kdo umění, učil; kdo sílu, jiné zastupoval; kdo moc, v řádu zdržoval. Zbloudil-li kdo v čem, jiní ho upamatovali; zhřešil-li, potrestali; a každý se i pamatovati i trestati rád dal, všecko podle ukázání napraviti hotov jsa, i to tělo od sebe dáti, kdyby, že jemu nepřináleží, ukázáno bylo.
+
+</section>

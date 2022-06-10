@@ -3,6 +3,8 @@ title: KAPITOLA L\. Poutník křesťany podle stavů prohlédá
 contentType: prose
 ---
 
+<section>
+
 **_1._** To až potud veřejné všech křesťanů pravých případnosti vypravoval sem; spatře pak já mezi nimi rovně jako v světě rozdílná povolání, žádostiv sem byl, jak kteří stupně svého ostříhají, také se podívati. I nalezl sem ušlechtilý opět při všem řád, až milo, ale toho již obšírně vyčítati nechci, krátce toliko něco dotknu.
 
 ### Manželství křesťanů jaké
@@ -20,3 +22,5 @@ contentType: prose
 ### Jaké kněží a teology
 
 **_5._** Kněží a kazatelů viděl sem tu jistý počet podle potřeby církve; vše v hábitu prostičkém, obyčejů krotkých a přívětivých jak mezi sebou, tak vůbec k jiným. Času více s Bohem než lidmi trávili, modlitbami, čtením a přemyšlováním. Co mimo to času jest, ten na vyučování, jiných buď v shromáždění vůbec, aneb v soukromnosti obzvláštně vynakládají. (N. B.) Jistili mi to posluchači a sám sem zkusil, že se kázání jejich nikdá bez vnitřního pohnutí srdce a svědomí neslýchá, protože z úst jejich pronikavá moc božských výmluvností plyne. I plesání sem při poslouchajících i slzy spatřil, když se aneb o milosrdenství Božím, aneb o lidské nevděčnosti mluvilo; tak se to od nich opravdově, živě a vroucně koná. Za hanbu by sobě kladli něčemu jiné učiti, čehož by prvé sami na sobě příkladu neukazovali. Takže i když mlčí, čemu se z nich učiti jest. Přistoupil sem pak obzvláštně k jednomu z nich, promluviti chtěje, kterýž byl muž počestných šedin a z jehož tváře božského hned cosi se stkvělo. Když se mnou mluvil, řeč jeho přívětivé jakési přísnosti plná byla a všelijak patrné bylo, že Boží legát jest, tak nic světem nepáchl. (N. B.) Když sem ho obyčejem naším tituli ctíti chtěl, nedal, nazývaje to fraškami světa; jemu titule a cti dosti že jest, jestliže jej služebníkem Božím, a líbí-li mi se otcem svým, nazovu. Když mi požehnání dával, nevím jakou pochotnost a v srdci rozvínající se radost sem cítil; a porozuměl sem v pravdě, že pravá theologia mocnějšího a pronikavějšího cosi jest, nežli jakž se toho vůbec zakouší. (N. B.) A zapýřil sem se, vzpomena tu na některých našich kněží nadutost, pýchu, lakomství, společné různice, nepřízně a nenávisti, ožralství a summou tělesnost; jejichž slova a skutkové tak daleko od sebe stojí, že jen z žertu o ctnostech a křesťanském životu zdají se mluviti. Mně se, ať pravdu vyznám, tito líbili, muži vroucího ducha, krotkého těla; milovníci nebeských věcí, nedbalci zemských; bedliví nad stádem, zapominatedlní nad sebou; střízliví vínem, opojení duchem; skrovní v řečech, hojní v skutcích; a z nichž každý přední v práci, poslední v chloubě býti se snažil: summou skutky, slovy i myšleními všechněch duchovní vzdělání obmýšlející.
+
+</section>

@@ -3,6 +3,8 @@ title: KAPITOLA IX\.Poutník prohlédá stav řemeslníků
 contentType: prose
 ---
 
+<section>
+
 ### Co tu viděl veřejně
 
 **_1._** Takž jdouce dostaneme se do ulice, kde se živnosti provodí, kteráž zase na mnoho menších uliček a plácků rozdělená byla, a všudy rozličných síní, dílní, výhní, verštatů, krámů, boud, s přerozličným potvorným nádobím plno, okolo nichž se divně lidé zatáčeli, vše s třískáním, boucháním, vrzáním, skřípáním, hvízdáním, pískáním, foukáním, houkáním, chřestáním a šoustáním rozmanitým. Viděl sem tu, jak se někteří v zemi hrabali a kutali, buď po vrchu ji párajíce, aneb se skrze vnitřnosti její jako krtice prorývajíce. Jiní se máchali v vodě, na řekách i na moři, jiní párali v ohni, jiní zevlovali do povětří, jiní zápasili s zvěří, jiní s dřívím a kamením, jiní ledcos sem a tam přenášeli a převáželi. I dí mi tlumočník: „Hle, jak to bystré a veselé práce! Medle, coť se tu nejlép líbí?“ Já řekl: „Můž býti, že tu veselosti jest něco, já však mnoho při tom natahání vidím, mnoho stonání slyším.“ „Ne všeckoť jest těžké,“ řekl, „nahlédněme blíž do těch některých věcí.“ I vodili mne skrze ně pořád a prohlédal sem všecko a chytal se také po místech toho i jiného pro zkušenou, ale všeho vypisovati na tomto místě ani nemohu, ani nechci. Než co sem tu veřejně vyšetřil, toho nezatajím.
@@ -39,7 +41,9 @@ _2._ Předně, spatřil sem, že všickni ti lidští obchodové jen práce jsou
 
 **_9._** Zvláště pak naposledy, když sem viděl, že se tu jen tělem a tělu pracuje; ježto by člověk, přednější věc v sobě maje, duši, tu nejpředněji v práce zavoditi, té zisků nejpředněji hledati měl.
 
-  
+</section>
+
+<section>
 
 **_10._** Jednu věc zejména připomenouti se vidí, jak mi se mezi formany po zemi a mezi plavci na moři vedlo. Když sem tak, dílny řemeslníků přehlédaje, tesknil, řekl Mámilovi Všudybud: „Vidím já, že je toto cosi neposedavého, rtuť vždycky se mektati chtíci, protož mu žádné jedno místo nevoní, k němuž by se přivázati dáti chtěl. Ukažme mu prostrannější, kupecký, kdež vždycky sem tam přes svět se přenášeti a jako ptáku létati volno.“ „Nejsem proti tomu,“ řekl sem, „i toho zkusiti.“ Šli sme tedy.
 
@@ -75,6 +79,10 @@ _2._ Předně, spatřil sem, že všickni ti lidští obchodové jen práce jsou
 
 **_18._** Vtom se bouře sílí a proti nám vichr strašlivý strhne. Tu se teprv moře vlnami až k nebi kouřiti začne, tu nás sobě vlny jako míče podávají, tu se hlubiny odvírají a nás jednak sehltiti pohrožují, jednak zhůru zase vymítají; tu nás vítr v kolo bere a jednak sem, jednak tam námi hází, až praštělo všecko, jako by se na statisíce kusů roztříštiti mělo. Tu já zmrtvěl všecek, nic již před sebou nevida než zahynutí. Onino násilí již odolati nemohouc a na skály neb mělčiny vehnání se bojíc, křídla strhovali a háky jakési veliké železné na přetlustých provazích vyhazovali, tak se na místě zdržeti, až by bouře pominula, troufajíc. Ale nadarmo. Někteří zajisté z oněch po provazích lezoucích prudkostí větru jako housenky zházíni a do moře vmetáni; těmto týmž násilím kotvy se zutrhovaly a v hlubinách ztonuly. A tu teprv lodí naše s námi již beze vší obrany jako na proudě řeky tříšťka zmítati se počala. Obrům pak oněm železným svévolným teprv také srdce se tratilo, bledli, trnuli, co sobě počíti nevěděli, na Boha teprv zpomínali, k modlitbám napomínali i sami ruce spínali. Tu lodí s námi jednak na dně moře usedati, jednak o skryté pod vodou skálí se bíti a skrze to padati a pukati začne. Tu se voda rozštípeninami těmi k nám leje, kterouž ač vylévati čím a jak kdo pro starost pro mladost mohl poroučíno, platno však nic nebylo, tlačila se násilím k nám a nás v sebe. Tu pláč, křik, úpění nesmírné; žádný nic před očima neviděl než ukrutnou smrt. Avšak že život milý, chytal se čeho kdo mohl, tabulí, desek, holí, zda by se tím od potopení ubrániti a snad někam vždy vyplouti mohl. Až i já, když se naposledy lodí rozsmekla a všecko potonulo, čehosi se chytě, vyšel sem s nemnohými na břeh jakýsi; jiné sehltila všecky strašlivá ta propast. Kdež od zděšení a hrůzy sotva se probrav, svým vůdcům domlouvati začnu, že mne v to uvedli. Oni, že to neškodí mi: když sme jen vybředli, abych byl mysli dobré. Věru mysli dobré; do své nejdelší smrti na nic podobného navésti se nedám.
 
-  
+</section>
+
+<section>
 
 **_19._** Hledě pak, vidím, že ti se mnou vychváceni zase tam běží a znovu do korábů sedají. „I jdětež na všecko neštěstí,“ řekl sem, „opovážliví lidé, ani se víc dívati na to nechci.“ Tlumočník můj: „Ne každý jest tak rozmazaný,“ dí; „pěknáť jest, milý brachu, statek a zboží! Pro nahnání jeho musí se člověk i života odvážiti.“ Na to já: „Co jsem hovado, abych pro tělo toliko a tělu naháněje život v šanc sázel? Ba však toho ani hovado nečiní. Člověk ovšem, přednější věc v sobě maje, duši, té by zisků a rozkoši hledati měl.“
+
+</section>

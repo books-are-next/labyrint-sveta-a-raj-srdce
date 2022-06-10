@@ -3,6 +3,8 @@ title: "KAPITOLA XXIII\\. Poutník prohlédá hrad Fortuny; a\_nejprv přístup 
 contentType: prose
 ---
 
+<section>
+
 ### Ctnost zapadlá brána k slávě
 
 **_1._** Když k tomu milému hradu přijdeme, vidím nejprv zástupy lidu ze všech města ulic se zbíhajících a obcházejících a kudy by se zhůru dostati mohli obhlédajících. Byla pak na ten hrad jediná vysoká a úzká brána; ale kteráž zabořená, zaválená a trním zarostlá byla; sloula poně _Ctnost_. A praveno mi o ní, že před časy ona sama toliko k vcházení na hrad vystavená byla, ale že se brzy potom příhodou jakousi zabořila, protož jiných menších že naděláno a té necháno, poněvadž příliš příkro, nepřístupno a nezvolno bylo choditi skrze ní.
@@ -18,3 +20,5 @@ contentType: prose
 ### Čekanců na štěstí tesklivý způsob
 
 **_4._** Mnozí tu z všelijakých stavů byli, kteréž sem prvé viděl, že v povolání svém a skrze bránu ctnosti aneb také skrze postranní fortny práce a potu nelitovali, avšak se štěstí dočekati nemohli; jiný, na to třeba ani nemyslící, byl za ruku ujat a zhůru nešen. Z oněch pak čekanců mnozí převelmi tesklili, že na ně pořádka přijíti nechtěla, až nejeden ošedivěl. Někteří sobě zoufali, a pustíc o štěstí, vraceli se k lopotování svému; z kterýchž opět někteří roztoužíce se k hradu lezli, oči i rukou paní Fortuně podávajíc, takže expektantů těch způsob tak i jinak bídný a tesklivý sem shledal.
+
+</section>

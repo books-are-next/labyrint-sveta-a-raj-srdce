@@ -3,6 +3,8 @@ title: KAPITOLA XX\.Stav soldátský
 contentType: prose
 ---
 
+<section>
+
 ### Ukrutnost lidská
 
 **_1._** Takž vejdeme do poslední ulice, kdež hned v prvním placu ne málo lidí stojí červeně přioděných. K nimž přistoupě slyším, že se smlouvají, jak by se Smrti křídla dáti mohla, aby tak z daleka jako z blízka v okamžení mohla pronikati. Item, jak by se, co po mnohá léta staveno, za hodinu rozmetati mohlo. I uleknu se řečí těch; nebo až posavad, co sem kde z lidských činů viděl, o vzdělávání a rozšiřování lidí a pohodlí lidského života toliko bývaly řeči a práce; tito pak o zhoubu životů a pohodlí lidských se radili. Odpověděl tlumočník: „I těchto usilování totéž jest, ale jinakší drobet cestou, skrze odklizení jmenovitě toho, což ku překážce jest. Potom tomu vyrozumíš.“
@@ -28,3 +30,5 @@ A sotva se upamatovav, z toho placu, nic nevím jak a kam, sem vypadl, a tro
 ### Pozůstalí po bitvě
 
 **_6._** Vtom uzřím, an teď z bojoviště nejedny s odštípenýma rukama, nohama, hlavou, nosem, s zvrtaným tělem, střapenou kůží, vše krví zohavené vedou a nesou. Na něž když lítostí sotva hleděti mohu, tlumočník mi dí: „Všecko se to zhojí, soldát musí otrlý býti.“ „A co pak,“ dím já, „kteří tam krků nechali?“ Odpověděl: „Již ta kůže zaplacená byla.“ „Jak to?“ dím já. „A cos neviděl, jakého se jim prvé pohodlí přálo?“ „A jakého také nepohodlí,“ řekl sem, „pojměti museli? Mezitím byť pak pouhé rozkoše předešly, bídnáť jest to věc člověku, proto se krmiti dáti, aby hned na jatku musil. Ošklivýť jest ten stav, co ho koli, nechci, nechci ho, poďme odtud!“
+
+</section>

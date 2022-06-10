@@ -3,19 +3,27 @@ title: KAPITOLA XIX\.Poutník stav vrchností spatřuje
 contentType: prose
 ---
 
+<section>
+
 ### Vrchností rozdílní stupňové
 
 **_1._** Přišli sme tedy do jiné ulice, kdež po všech stranách plno vidím vyšších i nižších stolic, na nichž sedícím „pane rychtáři, pane purgmistře, pane úředníče, pane rejente, pane purkrabí, pane kanclíři, pane místodržící, páni soudcové, milostivý králi, kníže, pane“ etc. říkali. I dí mi tlumočník: „Nu, tu máš ty lidi, kteříž soudy a výpovědi v rozepřech konajíce, zlé trescíce, dobrých přichraňujíce, řád v světě zdržují.“ „Toť jest ovšem pěkná a mám za to nevyhnutedlná v lidském pokolení věc,“ řekl sem. „Odkud se pak takoví lidé berou?“ Odpověděl mi: „Někteří se k tomu rodí, jiní od nich aneb od obce vybráni bývají, ti, kteříž by za nejmoudřejší ze všech a nejzkušenější a spravedlnosti a práv nejpovědomější uznáni byli.“ „I to pěkně,“ dím já.
 
-  
+</section>
+
+<section>
 
 **_2._** Vtom mi se pohleděti udá a spatřím, an se někteří do stolic vkupují, jiní vprošují, jiní vpochlebují, jiní sami sázejí; a vida to, „Hle, hle, neřád!“ zkřikl sem. „I mlč, všetýčko,“ dí tlumočník, „zlým toho zaživeš, uslyší-li.“ „A proč nečekají,“ dím já, „až by zvoleni byli?“ Odpověděl: „Herež, oni sebe bezpochyby povědomi jsouc, s tu práci se býti znají; když je za ty jiní přijímají, co tobě do toho?“
 
-  
+</section>
+
+<section>
 
 **_3._** Já tedy umlknu, a přiopravě sobě brýlí, hledím pilně po nich a uzřím věc nenadálou, že jmenovitě řídko který z nich všecky oudy měl, každému téměř něčeho potřebného se nedostávalo. Někteří neměli uší, jimiž by stížnosti poddaných vyslýchati; jiní očí, jimiž by neřády před sebou znamenati; jiní nosu, kterýmž by šibalů proti právu úklady čenichati; jiní jazyku, kterýmž by za němé utištěné promlouvati; jiní rukou, kterýmiž by úsudky spravedlnosti vykonávati mohli; mnozí ani srdce neměli, aby, co spravedlnost káže, konati směli.
 
-  
+</section>
+
+<section>
 
 **_4._** Kteří pak všecko to měli, viděl sem je utrápené lidi býti; nebo na ně ustavičně nabíháno, ani pojísti, ani pospáti pokojně nemohli. Ježto ti druzí víc než odpolu zahálivý život vedli. I řekl sem: „Ale proč pak takovým těmto soudy a práva svěřují, kteří potřebných k tomu oudů nemají?“ Odpověděl tlumočník, že toho není, než že se mně tak zdá. Nebo prý: „Qui nescit simulare, nescit regnare.[19](./resources/undefined) Kdo jiné zpravuje, musí často neviděti, neslyšeti, nerozuměti, byť i viděl, slyšel a rozuměl, čemuž ty, jakožto v věcech politických neprošlý, nerozumíš.“ „A vždyť já vidím na mou věru,“ řekl sem, „že při nich toho, což by býti mělo, není.“ „A já tobě radím,“ dí on, „mlč; slibujiť sic, nepřestaneš-li mudrování, octneš se, kde by nerad. Co nevíš, že soudce poříkati k hrdlu sahá?“ Takž sem umlkl a tiše se na všecko díval. Než nevidí mi se, co sem na které stolici obzvlášť spatřil, všecko vyčítati, dvojího toliko dotknu.
 
@@ -54,3 +62,5 @@ contentType: prose
 * * *
 
 [19](./resources/undefined) Kdo se neumí přetvařovat, neumí vládnout. _Pozn. red._
+
+</section>

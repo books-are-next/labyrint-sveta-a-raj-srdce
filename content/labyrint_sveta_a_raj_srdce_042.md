@@ -5,6 +5,8 @@ title: >-
 contentType: prose
 ---
 
+<section>
+
 ### Šalamounovi tovaryši horlí
 
 **_1._** Tak zmámeného vidouce, kteříž v komonstvu jeho nejpřednější byli, Mojžíš, Eliáš, Izaiáš, Jeremiáš, horliti náramně počali, před nebem a zemí, že se ohavností těch účastny učiniti nechtí, protestujíce, nýbrž celého zástupu, aby se marnosti a bláznovství vzdálili, napomínajíce. Že pak ne jedni za příkladem Šalomounovým předce postupovali, oni tím více se horlením rozněcujíce, tím zuřivěji hřímali; zvláště Izaiáš, Jeremiáš, Báruch, Štěpán, Pavel etc. Mojžíš nad to svým meče připasovati, Eliáš ohni z nebe zstupovati, Ezechiáš všecky ty maňasy troskotati poroučel etc.
@@ -20,3 +22,5 @@ contentType: prose
 ### Bitva, jímání, mordování, pálení a jiné muky
 
 **_4._** Vtom onino oboříc se na jednoho, druhého, třetího, desátého, bijí, sekají, porážejí, šlapají, jímají, váží, do vězení vedou, jak čí při kom vzteklost měla; nad čímž mi div lítostí srdce nepuklo. Avšak sem, ukrutnosti té se lekaje, cknouti nesměl, všecken se třesa. I uzřím, že někteří z těch jatých a ubitých ruce spínají, odprošujíce činů svých; jiní, čím více s nimi zacházíno, tím více na svém stáli. Protož někteří tu hned před očima mýma do ohně metáni, jiní do vody házíni, jiní věšeni, stínáni, na kříž rozbíjeni, kleštěmi trháni, řezáni, bodeni, sekáni, pečeni na roštích. Aniž všeho vyčísti mohu, jak ukrutné smrti jim činěny; nad čímž plesali a výskali zástupové světa.
+
+</section>

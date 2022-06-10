@@ -3,6 +3,8 @@ title: KAPITOLA XLIII\. SVOBODA BOHU ODDANÝCH SRDCÍ
 contentType: prose
 ---
 
+<section>
+
 ### Praví křesťané nepohnutí jsou
 
 **_1._** Odtud jim jde to, čehož všickni nejmoudřejší světa v svých věcech darmo hledají: plná jmenovitě svoboda myslí, aby žádné věci kromě Boha podrobeni a zavázáni nebyli, proti své vůli něco činiti povinni nejsouce. Ježto v světě všudy na skrz plno bezděčnosti sem viděl: každému jinak, než vinšoval, jeho věci šly, každý se víc, než slušelo, buď sebou, buď jinými vázal, a násilím buď své vlastní vůle, buď jiných tažen jsa, s sebou neb jinými vždycky boj měl. Tuto vše ticho. Nebo každý z nich Bohu se cele oddada, nic na žádnou jinou věc nedbal a žádného kromě Boha nad sebe vyššího nepoznával. Protož rozkazů světa neposlouchali, sliby jeho od sebe pryč házeli, pohrůžkám se smáli, zevnitřní všecko za špatné pokládajíce, protože vnitřním svým dobrým jisti jsou.
@@ -18,3 +20,5 @@ contentType: prose
 ### A jak to pěkná věc
 
 **_4._** Ó blahoslavená porobo synů Božích, nad niž nic svobodnějšího vymyšleno býti nemůže, kdež člověk Bohu samému se podrobuje, aby jinde všudy rozvázán byl! Ó nešťastná světa svobodo, nad niž otročtějšího nic býti nemůže, kdež člověk samého Boha nedbaje, jiným věcem mizerně se v manství podrobovati dá; jmenovitě, kdež slouží tvorům, nad nimiž panovati měl, a odporuje Bohu, jehož poslouchati měl. Ó smrtedlní, kéž tomu rozumíme, že jediný jest, jediný toliko, vyšší nad nás, Hospodin Učinitel náš a budoucí soudce, kterýž sám moc maje rozkazovati nám, nerozkazuje však jako otrokům, ale jako dítek zůve ku poslušenství svému, svobodné nás a nesvázané, i když posloucháme, míti chtěje. Jistě žeť Kristu sloužiti jest kralovati. Nýbrž manem Božím býti větší jest sláva, nežli všeho světa monarchou býti; a co pak přítelem a dítětem Božím býti bude?
+
+</section>

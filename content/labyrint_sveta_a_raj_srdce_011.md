@@ -3,9 +3,13 @@ title: "KAPITOLA IV\\.Poutník uzdy a\_brýlí dostal"
 contentType: prose
 ---
 
+<section>
+
 **_1._** To já slyše, zhrozím se; a co sem to k hříchu za tovaryše dostal, sobě myslím. První onen (tak sobě to mysl má rozbírala) o jakés uzdě mluvil, tento se Mámením jmenuje, královnu svou Marností mi (ač neopatrným tuším vybleknutím) jmenoval: co pak to?
 
-  
+</section>
+
+<section>
 
 **_2._** A když já tak mlče a sklopě oči jdu a nohami nechtivě jaksi pokračuji, Všezvěd: „Co, vrtochu,“ dí, „tušímť se nazpět chuť dělá?“ A než já co odpovím, anť mi na krk uzdu jakous vhodí, jejíž udidla pojednou mi se do úst vklouzla. A on: „Nu, již mi povolně půjdeš,“ dí, „kams začal.“
 
@@ -21,6 +25,10 @@ contentType: prose
 
 **_5._** Byly pak brýle ty, jakž sem potom vyrozuměl, z skla _Domnění_ vykroužleny, a rámcové, v nichž byly ufasované, byli z rohu, jenž _Zvyk_ slove.
 
-  
+</section>
+
+<section>
 
 **_6._** Vstrčil mi je pak, na mé štěstí, křivě jaksi, takže mi plně na oči nedoléhaly, a já hlavy přizdvihna a zraku podnesa, čistě přirozeně na věc hleděti sem mohl. Čemuž sem rád byl a sám v sobě myslil: Ač ste mi ústa sevřeli a oči zastřeli, věřím však svému Bohu, že mi rozumu a mysli nesvážete. Půjduť a podívám se, co pak ten svět jest, na nějž paní Marnost chce, aby se hledělo, avšak vlastníma očima aby se nehledělo.
+
+</section>

@@ -3,6 +3,8 @@ title: "KAPITOLA XXXII\\. Poutník se na tajné soudy a\_správu světa dívá"
 contentType: prose
 ---
 
+<section>
+
 **_1._** Porozuměl sem pak brzo potom, že se tu veřejné toliko věci, všech stavů světa se dotýkající, zpravují; jiné partikulární věci v vlastních svých místech, rathauzích, soudnicích, konsistořích etc. Co se pak v mé tu přítomnosti dálo, co nejkrátčeji oznámím.
 
 ### Stížnosti na neřády světa
@@ -72,3 +74,5 @@ Než toto že jim za pravidlo a klíč všech práv J. M. K. dávati ráčí, a
 * * *
 
 [28](./resources/undefined) Podle králova vzoru se řídí celý svět. _Pozn. red._
+
+</section>

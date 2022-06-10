@@ -3,6 +3,8 @@ title: KAPITOLA VI\.Osud rozděluje povolání
 contentType: prose
 ---
 
+<section>
+
 ### Branný světa osud
 
 **_1._** I zejdeme po jakéms tmavém šneku dolů, a aj, v té bráně veliká síň plná mladého lidu, a po pravé straně sedící zuřivý stařec a držící v ruce veliký měděný hrnec. I viděl sem, an k němu všickni od brány života přicházející přistupovali a každý do toho hrnce sáhna a cedulku s nějakým písmem vytáhna, hned do některé ulice města, jeden s radostí a výskáním běžel, jiný s zámutkem a stýskáním, kroutě se a ohlédaje šel.
@@ -18,3 +20,5 @@ contentType: prose
 ### A povolení dostává
 
 **_4._** On odpověděl: „Synu, vidíš, že toho jiní nečiní, ale co se jim podá neb naskytne, toho se drží. Však poněvadžs toho tak žádostiv, dobře.“ A napsav cedulku: _Speculare_ (to jest: _Dívej se_ neb _Zpytuj_), dal mi a pustil mne.
+
+</section>

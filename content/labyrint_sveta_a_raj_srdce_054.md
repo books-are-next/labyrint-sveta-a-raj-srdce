@@ -3,6 +3,8 @@ title: KAPITOLA XLVII\. Bezpečnost bohu oddaných lidí
 contentType: prose
 ---
 
+<section>
+
 ### Stráž anjelská
 
 **_1._** Ačkoli pak nic se v světě tak obnažené a všelijakým nebezpečenstvím poddané nezdá, jako pobožných obor, na něž ďábel i svět škaredě hledí, tepou, bijí; já však velmi sem je zaopatřené viděl. Nebo i sama společnost jejich veřejně obehnána byla ohnivou zdí, kterouž, když sem blíž přistoupil, hýbati se spatřil sem; nebo nebyla jiného nic než otočení mnoha tisíc tisíců anjelů vůkol, pro něž žádnému nepříteli ani přistoupiti možné nebylo. I mimo to každý z nich jednoho měl od Boha sobě přidaného a zřízeného anjela ochránce, kterýž by na něj pozor měl a před nebezpečenstvími a osídly, jamami a zálohami, pastmi a nástrahami jakýmikoli bránil a hájil. Jsou zajisté (poznal sem to a spatřil) milovníci lidí jakožto spoluslužebníků svých, když je k povinnosti, k níž od Boha stvořeni, státi vidí: těm oni rádi slouží, před ďáblem a zlými lidmi i nešťastnými příhodami střehou, i na rukou, kde potřeba, nosíce, od úrazu hájí. A tu sem porozuměl, jak na pobožnosti mnoho záleží, poněvadž krásní ti a čistí duchové tu toliko, kde vůni ctností cítí, se drží, smradem hříchů a nečistot odháníni bývají.
@@ -18,3 +20,5 @@ contentType: prose
 ### Svatá pobožných honosnost
 
 **_4._** Což oni také znají a na tu Boží ochranu vesele se spouštějí. Slyšel sem tu některé z nich chlubiti se, že se nebojí, by stín smrti tu stál, by tisícové tisíců vůkol nich se kladlo, by se všecken svět bouřil, by se země podvracela doprostřed moře, by ten svět pln ďáblů byl etc. Ó přešťastná v světě neslýchaná bezpečnosti, když člověk tak v ruce Boží zavřený a schovaný, všechněm jiným věcem z moci vyňatý jest! Rozumějmež tomu, ó všickni upřímní Kristovi služebníci, že strážného, ochránce a obhájce přebedlivého máme, samého všemohoucího Boha. Blaze nám!
+
+</section>

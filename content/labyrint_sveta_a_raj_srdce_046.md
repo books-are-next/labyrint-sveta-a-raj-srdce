@@ -3,6 +3,8 @@ title: KAPITOLA XXXIX\. Námluva jejich společná
 contentType: prose
 ---
 
+<section>
+
 ### I blouzení naše moudrost Boží řídí
 
 **_1._** „Přijímám to, synu můj, od tebe,“ řekl on. „Stůjž v tom, buď, slůj a zůstávej můj vlastní. Můjs sice byl a jsi od věčnosti, ales toho prv nevěděl. Já sem pro tebe potěšení to, k němuž tě nyní uvedu, dávno již strojil, ale tys tomu nerozuměl. Vedl sem tě cestami divnými, skrze okolí a zápolí, k sobě; čehožs ty neznal, a co já, ředitel všech vyvolených svých, tím obmýšlím, nevěděls, nýbrž ani díla mého při soběs neznamenal. Ale bylť sem s tebou všudy, a proto sem tě poněkud skrze ty okliky vodil, abych tě naposledy tím hlouběji k sobě uvedl. Ničemu tě svět, ničemu vůdcové tvoji, ničemu Šalomoun naučiti, ničím také zbohatiti, ničím nasytiti, ničím žádostí srdce tvého spokojiti nemohli, nebo to v nich složeno nebylo, čehos hledal. Ale já tě naučím všemu, já zbohatím, já nasytím.
@@ -70,3 +72,5 @@ Místo všech biblioték, kteréž čísti neskonalá práce, užitek malý, ča
 ### Odevzdati se Kristu cele, věc nejblahoslavenější
 
 **_16._** I řekl sem: „Hospodine, Bože můj, porozumívám, že ty sám všecko jsi; kdo tebe má, všeho světa snadně oželeti můž, protože v tobě má víc, než žádati umí. Bloudil sem, již tomu rozumím, v světě se toulaje a odpočinutí v věcech stvořených hledaje. Ale jižť sobě žádného kromě tebe kochání od této hodiny nevinšuji, tobě se hned teď nyní cele oddávám. Jen ty mne sám posilni, abych od tebe zase k věcem stvořeným neodpadl, nesmyslnosti té, jíž svět pln jest, znovu se dopouštěje. Milost tvá ostříhejž mne, na tuť se spouštím.“
+
+</section>

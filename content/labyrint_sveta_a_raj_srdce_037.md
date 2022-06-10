@@ -3,6 +3,8 @@ title: KAPITOLA XXX\.Poutník na palácu Moudrosti obžalován
 contentType: prose
 ---
 
+<section>
+
 ### Poutník před královnu s. Moudrost postaven
 
 **_1._** I uvedli mne na nějakou velikou síň, na níž mne nejprv světlo oblesklo neobyčejné; nejen proto, že oken plno bylo, ale více pro drahé (jakž pravili) kamení, jimž stěny vysazeny byly vůkol, a půda postřená čalouny drahými, též od zlata se třpytícími; místo pak stropu byl oblak jakýsi či mlha. Čehož sem plně examinovati neměl kdy, protože mi oči na samu tu milou královnu ihned obráceny byly, kteráž na nejvyšším místě pod majestátem seděla a okolo ní z obou stran stojící rady a služebnice její, komonstvo k užasnutí velebné. I zhrozil sem se slávy té, zvláště když počaly jedna za druhou na mne vzhlédati. I dí mi Všudybud: „Nestrachuj se nic, předstup blíž, ať tě i královna Její Milost spatří, a buď srdnatý, na stud však a zdvořilost nezapomínaje.“ A tak mne vedl až doprostřed a kázal mi se z nízka pokloniti; což já, nevěda, jak činiti, učinil sem.
@@ -46,3 +48,5 @@ Druhý mi se ne tak hrozný jako směšný zdál. Nebo měl místo pancíře li�
 ### Drabanti
 
 **_8._** I zeptám se ještě na ty drabanty dva, co a k čemu jsou? On, že „i královna Její Milost své nepřáteli a úkladníky má, před nimiž se hájiti musí. Tento prý v liščí zbroji slove _Úlisnost_, onen druhý v železi a ohni slove _Moc_. Kde jeden obrániti nemůž, brání druhý, oba se vespolek zastupujíce. Pes pak při nich jest místo strážného, aby, kde kdo podezřelý se blíží, štěkáním svým oznamoval a odháněl; slove u dvoru _Pošta_, ale kterým se povinnost jeho nehrubě líbí, přezdívají mu _Sok_. Ty však lelkování nechaje, poslouchej a pozoruj věcí samých, kteréž se tu díti budou.“ „Dobře,“ řekl sem, „rád.“
+
+</section>

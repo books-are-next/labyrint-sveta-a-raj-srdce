@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 _Viděl sem všecky skutky, kteréž se dějí pod sluncem  
 a aj, všecko jest marnost a trápení ducha._
 
@@ -15,3 +17,5 @@ Cumque ibis curresque viis, dic: Optime _lector_!
 Ex me _supremum_ non nisi disce _bonum_.
 
 — M. Georg. Colsinius
+
+</section>
