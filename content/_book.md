@@ -257,5 +257,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---
