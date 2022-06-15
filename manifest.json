@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "komensky-labyrint-sveta-a-raj-srdce-375e90d",
-  "revision": "375e90d",
+  "identifier": "komensky-labyrint-sveta-a-raj-srdce-18b307c",
+  "revision": "18b307c",
   "readingOrder": [
     "promo.html",
     "labyrint_sveta_a_raj_srdce_005.html",
@@ -72,8 +72,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:55:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157344359
+    "date": "Wed Jun 15 2022 05:52:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272344897
   },
   "documents": [
     {
@@ -1231,8 +1231,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 745,
+      "words": 134,
+      "chars": 852,
       "ideas": 15,
       "role": "colophon",
       "order": null,
@@ -1251,8 +1251,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47711,
-      "chars": 282437,
+      "words": 47725,
+      "chars": 282544,
       "ideas": 782
     },
     "chapters": {
