@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   edition: beletrie
   publisherShort: mkp
+  contentType: prose
 readingOrder:
   - promo.html
   - labyrint_sveta_a_raj_srdce_005.html

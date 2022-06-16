@@ -8,7 +8,8 @@
       "modified": "2022-02-10T10:37:31.293Z",
       "languageCode": "cs",
       "edition": "beletrie",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola",
@@ -1185,6 +1186,6 @@
       "user": "books-are-next",
       "repo": "labyrint-sveta-a-raj-srdce"
     },
-    "generatedAt": 1655271470100
+    "generatedAt": 1655364227565
   }
 }
