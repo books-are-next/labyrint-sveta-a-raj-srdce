@@ -72,7 +72,7 @@ readingOrder:
   - labyrint_sveta_a_raj_srdce_059.html
   - labyrint_sveta_a_raj_srdce_060.html
   - labyrint_sveta_a_raj_srdce_061.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
