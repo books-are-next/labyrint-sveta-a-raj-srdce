@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "komensky-labyrint-sveta-a-raj-srdce-4de0b2d",
-  "revision": "4de0b2d",
+  "identifier": "komensky-labyrint-sveta-a-raj-srdce-fa55a25",
+  "revision": "fa55a25",
   "readingOrder": [
     "promo.html",
     "labyrint_sveta_a_raj_srdce_005.html",
@@ -69,11 +69,11 @@
     "labyrint_sveta_a_raj_srdce_059.html",
     "labyrint_sveta_a_raj_srdce_060.html",
     "labyrint_sveta_a_raj_srdce_061.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:12:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979150014
+    "date": "Thu Jul 07 2022 08:32:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182776478
   },
   "documents": [
     {
@@ -182,7 +182,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA II.Poutník dostal Všudybuda za vůdce",
+          "name": "KAPITOLA II.Poutník dostal Všudybuda za vůdce",
           "id": null,
           "children": []
         }
@@ -202,7 +202,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA III. Mámení se přitovaryšilo",
+          "name": "KAPITOLA III. Mámení se přitovaryšilo",
           "id": null,
           "children": []
         }
@@ -242,7 +242,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA V.Poutník se z vysoka na svět dívá",
+          "name": "KAPITOLA V.Poutník se z vysoka na svět dívá",
           "id": null,
           "children": []
         }
@@ -402,7 +402,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XIII.Poutník se na Rose-Crucios dívá",
+          "name": "KAPITOLA XIII.Poutník se na Rose-Crucios dívá",
           "id": null,
           "children": []
         }
@@ -462,7 +462,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XVI.Poutník se na promocí mistrů a doktorů dívá",
+          "name": "KAPITOLA XVI.Poutník se na promocí mistrů a doktorů dívá",
           "id": null,
           "children": []
         }
@@ -702,7 +702,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá",
+          "name": "KAPITOLA XXVIII. Poutník sobě zoufati počíná a s svými vůdci se hádá",
           "id": null,
           "children": []
         }
@@ -742,7 +742,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXX.Poutník na palácu Moudrosti obžalován",
+          "name": "KAPITOLA XXX.Poutník na palácu Moudrosti obžalován",
           "id": null,
           "children": []
         }
@@ -762,7 +762,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými",
+          "name": "KAPITOLA XXXI. Šalomoun na palác Moudrosti přišel s houfy velikými",
           "id": null,
           "children": []
         }
@@ -782,7 +782,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá",
+          "name": "KAPITOLA XXXII. Poutník se na tajné soudy a správu světa dívá",
           "id": null,
           "children": []
         }
@@ -902,7 +902,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XXXVIII. Krista za hostě dostal",
+          "name": "KAPITOLA XXXVIII. Krista za hostě dostal",
           "id": null,
           "children": []
         }
@@ -962,7 +962,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA XLI. Poutník do neviditedlné církve odkázán",
+          "name": "KAPITOLA XLI. Poutník do neviditedlné církve odkázán",
           "id": null,
           "children": []
         }
@@ -1202,7 +1202,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KAPITOLA LIII. Poutník za domácího Božího přijat",
+          "name": "KAPITOLA LIII. Poutník za domácího Božího přijat",
           "id": null,
           "children": []
         }
@@ -1217,7 +1217,7 @@
       "role": "chapter",
       "order": 57,
       "prev": "labyrint_sveta_a_raj_srdce_060.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1230,11 +1230,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 852,
+      "chars": 851,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "labyrint_sveta_a_raj_srdce_061.html",
       "next": null,
@@ -1251,8 +1251,8 @@
   ],
   "totals": {
     "all": {
-      "words": 47725,
-      "chars": 282544,
+      "words": 47724,
+      "chars": 282548,
       "ideas": 782
     },
     "chapters": {

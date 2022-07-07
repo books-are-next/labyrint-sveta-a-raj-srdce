@@ -60,7 +60,7 @@
             "filename": "labyrint_sveta_a_raj_srdce_003.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -70,7 +70,7 @@
             "filename": "labyrint_sveta_a_raj_srdce_004.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -707,7 +707,7 @@
             "filename": "labyrint_sveta_a_raj_srdce_062.md",
             "xhtml": "labyrint_sveta_a_raj_srdce_062.xhtml",
             "id": 61,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -1186,6 +1186,6 @@
       "user": "books-are-next",
       "repo": "labyrint-sveta-a-raj-srdce"
     },
-    "generatedAt": 1655978985493
+    "generatedAt": 1657182131597
   }
 }
