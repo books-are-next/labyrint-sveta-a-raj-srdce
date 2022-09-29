@@ -11,7 +11,7 @@ contentType: prose
 
 <section>
 
-**_2._** Tolikéž čtyrmecitma[30](./resources/undefined) starců, kteříž padajíce před trůnem a mecíce koruny své k nohám toho, kterýž jest živý na věky věků, zpívali hlasitě: „Hoden jsi, Pane, přijíti slávu a čest i moc. Nebos stvořil všecky věci a pro vůli tvou trvají i stvořeny sou.“
+**_2._** Tolikéž čtyrmecitma[^30] starců, kteříž padajíce před trůnem a mecíce koruny své k nohám toho, kterýž jest živý na věky věků, zpívali hlasitě: „Hoden jsi, Pane, přijíti slávu a čest i moc. Nebos stvořil všecky věci a pro vůli tvou trvají i stvořeny sou.“
 
 </section>
 
@@ -33,6 +33,6 @@ contentType: prose
 
 * * *
 
-[30](./resources/undefined) Dvacet čtyři_. Pozn. red._
+[^30]: Dvacet čtyři_. Pozn. red._
 
 </section>

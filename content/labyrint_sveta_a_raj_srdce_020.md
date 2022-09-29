@@ -19,9 +19,9 @@ contentType: prose
 
 ### Continuatio Famae Rosaeorum
 
-**_4._** Vtom, aj, opět začne se troubení; za kterýmž zvukem když jich mnoho běží, i já také, spatřím jakéhos, an krám rozkládaje, lidí k spatřování a kupování předivných tajemství nabízí, kteráž prý z pokladů nové filozofie vzatá jsou a všechněm tajné moudrosti žádostivým zadosti učiní. I byla radost, že tu již svaté Růžové bratrstvo zjevně se a štědře poklady svými sděluje; přistupovali a kupovali mnozí. Všecko pak to, což se prodávalo, zavinuté bylo v škatulích, kteréž malované byly a s všelijakými pěknými nápisy: Portae Sapientiae; Fortalitium Scientiae; Gymnasium Universitatis; Bonum Macro-micro-cosmicon; Harmonia utriusque Cosmi; Christiano-cabalisticum; Antrum Naturae; Arx Primaterialis; Divino-magicum; Tertrinum Catholicum; Pyramis Triumphalis; Hallelujah, etc.[11](./resources/undefined)
+**_4._** Vtom, aj, opět začne se troubení; za kterýmž zvukem když jich mnoho běží, i já také, spatřím jakéhos, an krám rozkládaje, lidí k spatřování a kupování předivných tajemství nabízí, kteráž prý z pokladů nové filozofie vzatá jsou a všechněm tajné moudrosti žádostivým zadosti učiní. I byla radost, že tu již svaté Růžové bratrstvo zjevně se a štědře poklady svými sděluje; přistupovali a kupovali mnozí. Všecko pak to, což se prodávalo, zavinuté bylo v škatulích, kteréž malované byly a s všelijakými pěknými nápisy: Portae Sapientiae; Fortalitium Scientiae; Gymnasium Universitatis; Bonum Macro-micro-cosmicon; Harmonia utriusque Cosmi; Christiano-cabalisticum; Antrum Naturae; Arx Primaterialis; Divino-magicum; Tertrinum Catholicum; Pyramis Triumphalis; Hallelujah, etc.[^11]
 
-Každému pak, kdo kupoval, zapovědělo se odvírati. Nebo tajné té moudrosti že taková jest moc, že pronikáním operuje, ale kdyby se odevřela, že by vypáchla. Nicméně všetečnější někteří nezdrželi se, aby odevříti neměli; a nalezše škatule své naprosto prázdné, ukazovali jiným, kteříž když také své zodvírali, nenašel žádný nic. I křičeli: „Podvod, podvod!“ a zuřivě člověku tomu mluvili; ale on je pokojil, to nejtajnější tajností býti pravě, že věci ty, kromě Filiis scientiae[12](./resources/undefined), nespatřitedlné jsou, čehož jednomu z tisíce že se nedostává, on že tím vinen není.
+Každému pak, kdo kupoval, zapovědělo se odvírati. Nebo tajné té moudrosti že taková jest moc, že pronikáním operuje, ale kdyby se odevřela, že by vypáchla. Nicméně všetečnější někteří nezdrželi se, aby odevříti neměli; a nalezše škatule své naprosto prázdné, ukazovali jiným, kteříž když také své zodvírali, nenašel žádný nic. I křičeli: „Podvod, podvod!“ a zuřivě člověku tomu mluvili; ale on je pokojil, to nejtajnější tajností býti pravě, že věci ty, kromě Filiis scientiae[^12], nespatřitedlné jsou, čehož jednomu z tisíce že se nedostává, on že tím vinen není.
 
 ### Eventus Famae
 
@@ -29,8 +29,8 @@ Každému pak, kdo kupoval, zapovědělo se odvírati. Nebo tajné té moudrosti
 
 * * *
 
-[11](./resources/undefined) Brána moudrosti; Tvrz vědy; Učiliště veškerenstva; Dobro makrokosmu i mikrokosmu (velkého i malého světa); Souzvuk obojího světa; O křesťanské tajné nauce; Jeskyně Přírody; Hrad první hmoty; O božské magii; Trojnásobná trojice obecná; Vítězná pyramida; Aleluja, atd. _Pozn. red._
+[^11]: Brána moudrosti; Tvrz vědy; Učiliště veškerenstva; Dobro makrokosmu i mikrokosmu (velkého i malého světa); Souzvuk obojího světa; O křesťanské tajné nauce; Jeskyně Přírody; Hrad první hmoty; O božské magii; Trojnásobná trojice obecná; Vítězná pyramida; Aleluja, atd. _Pozn. red._
 
-[12](./resources/undefined) Synové vědy. _Pozn. red._
+[^12]: Synové vědy. _Pozn. red._
 
 </section>

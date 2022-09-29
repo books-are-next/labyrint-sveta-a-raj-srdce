@@ -63,10 +63,10 @@ contentType: prose
 
 ### Nemocí a smrti strůjcové sami sobě lidé
 
-**_15._** Nechť tohoto nezatajuji, že když sem tak nesčíslné létajících Smrti střel množství spatřil, na mysl mi přišlo: „Kde pak ta Smrt těch šípů tak mnoho bere, že se z nich nikdy nevystřílí?“ I hledím a spatřím čistě patrně, že ona žádných svých šípů neměla, než luk toliko; šípy pak od lidí brala, každý od toho, kterého ním trefiti měla. A viděl sem, že lidé šípy takové sami strojili a připravovali, někteří je všetečně a opovážlivě i sami ji vstříc nosíce, takže ona sotva co jich zhotovených viděla, bráti a do srdce jim vstřelovati postačovala. I zkřikl sem: „Již vidím, že pravé jest: Et mortis faber est quilibet ipse suae;[1](./resources/undefined) vidím již, že žádný neumírá, kdo by nestředmostí, nezdrželivostí, všetečností aneb naposledy nešetrností hliz, pryskýřů, ran vnitřních i zevnitřních (nebo to sou šípové Smrti) sám na sebe nepřipravoval.“ Když pak já tak pilně na tu Smrt a její po lidech se shánění hledím, trhne mnou Mámil a dí: „Copak, nemoudrý, mrtvých raději hledíš než živých? Kdo umře, ten tam; ty se živ býti stroj!“
+**_15._** Nechť tohoto nezatajuji, že když sem tak nesčíslné létajících Smrti střel množství spatřil, na mysl mi přišlo: „Kde pak ta Smrt těch šípů tak mnoho bere, že se z nich nikdy nevystřílí?“ I hledím a spatřím čistě patrně, že ona žádných svých šípů neměla, než luk toliko; šípy pak od lidí brala, každý od toho, kterého ním trefiti měla. A viděl sem, že lidé šípy takové sami strojili a připravovali, někteří je všetečně a opovážlivě i sami ji vstříc nosíce, takže ona sotva co jich zhotovených viděla, bráti a do srdce jim vstřelovati postačovala. I zkřikl sem: „Již vidím, že pravé jest: Et mortis faber est quilibet ipse suae;[^1] vidím již, že žádný neumírá, kdo by nestředmostí, nezdrželivostí, všetečností aneb naposledy nešetrností hliz, pryskýřů, ran vnitřních i zevnitřních (nebo to sou šípové Smrti) sám na sebe nepřipravoval.“ Když pak já tak pilně na tu Smrt a její po lidech se shánění hledím, trhne mnou Mámil a dí: „Copak, nemoudrý, mrtvých raději hledíš než živých? Kdo umře, ten tam; ty se živ býti stroj!“
 
 * * *
 
-[1](./resources/undefined) A smrti své je každý strůjcem. _Pozn. red._
+[^1]: A smrti své je každý strůjcem. _Pozn. red._
 
 </section>

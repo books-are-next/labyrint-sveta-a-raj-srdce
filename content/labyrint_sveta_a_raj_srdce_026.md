@@ -25,7 +25,7 @@ contentType: prose
 
 <section>
 
-**_4._** Kteří pak všecko to měli, viděl sem je utrápené lidi býti; nebo na ně ustavičně nabíháno, ani pojísti, ani pospáti pokojně nemohli. Ježto ti druzí víc než odpolu zahálivý život vedli. I řekl sem: „Ale proč pak takovým těmto soudy a práva svěřují, kteří potřebných k tomu oudů nemají?“ Odpověděl tlumočník, že toho není, než že se mně tak zdá. Nebo prý: „Qui nescit simulare, nescit regnare.[19](./resources/undefined) Kdo jiné zpravuje, musí často neviděti, neslyšeti, nerozuměti, byť i viděl, slyšel a rozuměl, čemuž ty, jakožto v věcech politických neprošlý, nerozumíš.“ „A vždyť já vidím na mou věru,“ řekl sem, „že při nich toho, což by býti mělo, není.“ „A já tobě radím,“ dí on, „mlč; slibujiť sic, nepřestaneš-li mudrování, octneš se, kde by nerad. Co nevíš, že soudce poříkati k hrdlu sahá?“ Takž sem umlkl a tiše se na všecko díval. Než nevidí mi se, co sem na které stolici obzvlášť spatřil, všecko vyčítati, dvojího toliko dotknu.
+**_4._** Kteří pak všecko to měli, viděl sem je utrápené lidi býti; nebo na ně ustavičně nabíháno, ani pojísti, ani pospáti pokojně nemohli. Ježto ti druzí víc než odpolu zahálivý život vedli. I řekl sem: „Ale proč pak takovým těmto soudy a práva svěřují, kteří potřebných k tomu oudů nemají?“ Odpověděl tlumočník, že toho není, než že se mně tak zdá. Nebo prý: „Qui nescit simulare, nescit regnare.[^19] Kdo jiné zpravuje, musí často neviděti, neslyšeti, nerozuměti, byť i viděl, slyšel a rozuměl, čemuž ty, jakožto v věcech politických neprošlý, nerozumíš.“ „A vždyť já vidím na mou věru,“ řekl sem, „že při nich toho, což by býti mělo, není.“ „A já tobě radím,“ dí on, „mlč; slibujiť sic, nepřestaneš-li mudrování, octneš se, kde by nerad. Co nevíš, že soudce poříkati k hrdlu sahá?“ Takž sem umlkl a tiše se na všecko díval. Než nevidí mi se, co sem na které stolici obzvlášť spatřil, všecko vyčítati, dvojího toliko dotknu.
 
 ### Soudů obecních častá nespráva a křivdy
 
@@ -61,6 +61,6 @@ contentType: prose
 
 * * *
 
-[19](./resources/undefined) Kdo se neumí přetvařovat, neumí vládnout. _Pozn. red._
+[^19]: Kdo se neumí přetvařovat, neumí vládnout. _Pozn. red._
 
 </section>

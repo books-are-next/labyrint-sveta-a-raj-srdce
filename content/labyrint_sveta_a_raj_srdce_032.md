@@ -29,24 +29,24 @@ contentType: prose
 
 **_6._** Tu zajisté některé sem naříkati slyšel, že jim jídlo a pití ani šmakovati, ani do hrdla jíti nechce, kterýchž jiní litovali. A aby jim spomoženo bylo, museli kupci sem tam po světě, co by se k chuti najíti mohlo, vyhledávajíce běhati; museli kuchaři všelijakých mustrů svých, jak by lahůdkám zvláštní vůni, barvu, chuť dadouc, do žaludka vlouditi mohli, ohledávati; museli lékaři, aby jedno druhému ustupovalo, zvrchu i zespod po trychtýřích nalévati. Takže s velikou prací a nákladem, co do sebe vecpati a vlíti měli, jim se shledávalo a velikými do nich chytrostmi a obmysly vpravovalo, s velikou bolestí a svíráním aneb v břiše třpělo, aneb ven dobývalo. A sic napořád byli plni nechutenství, šťkání, říhání a škrkání; spali zle, chrkali a frkali, slinili se a soplili, vývratků a lejn plní byli stolové a všickni koutové; chodili neb váleli se s shnilým břichem, podagrovatýma nohama, třeslavýma rukama, kyšícíma očima etc. „A mají toto rozkoše býti?“ řekl sem. „Ach, poďmež odtud, abych něco více mluviti nemusil a zase sobě něco neutržil.“ Tak odvrátě oči a zacpaje nos, šel sem.
 
-### Veneris regnum. Libidinis aestus[20](./resources/undefined)
+### Veneris regnum. Libidinis aestus[^20]
 
 **_7._** I přijdem, v týchž pokojích ještě, na jinou síň, kdež obojího pohlaví houfy spatřím, ani se za ruce vodí, objímají, líbají; a nechť nepravím, co tu více bylo.
 
-### Morb. Gall.[21](./resources/undefined)
+### Morb. Gall.[^21]
 
 Toto povím toliko, což sem k výstraze své spatřil, že všickni tu od paní Fortuny zavřeni zákožní palčivou prašivinu měli, kteráž jim ustavičný svrab působila, že pokoje míti nemohouc, kam přišli a oč mohli, česali se až do krve. Tím však drbáním svrab ten upokojiti se nikoli nedal, ale jen více rozněcován byl. Začež oni sic se styděli, avšak tajně a po koutech nic nedělali, než drbali se. Což že mrzutý a nezhojitedlný neduh byl, patrné bylo souditi. Nejedněm z nich i po vrchu se ošklivost vysýpala, takže se sami jedni druhých štítili, těžcí a odporní sobě vespolek jsouce. Ovšem pak zdravým očím a mysli nesnesitedlno bylo hleděti na ně a puchu od nich jdoucího cítiti.
 
-### Libido desperationis praecipitium[22](./resources/undefined)
+### Libido desperationis praecipitium[^22]
 
 Naposledy viděl sem, že to na těch rozkoše palácích poslední již byl, odkudž se ani zpátkem, ani dál nemohlo, kromě díry jakés vzádu tam, skrze níž nejedni hlouběji se v bujnost dávající propadali a zaživa do těch za světem temností se dostávali.
 
 * * *
 
-[20](./resources/undefined) Venušino království. Žár chlípnosti. _Pozn. red._
+[^20]: Venušino království. Žár chlípnosti. _Pozn. red._
 
-[21](./resources/undefined) _Morbus Gallicus_ = francouzská nemoc, syfilis. _Pozn. red._
+[^21]: _Morbus Gallicus_ = francouzská nemoc, syfilis. _Pozn. red._
 
-[22](./resources/undefined) Chlípnost, propast zoufalství. _Pozn. red._
+[^22]: Chlípnost, propast zoufalství. _Pozn. red._
 
 </section>

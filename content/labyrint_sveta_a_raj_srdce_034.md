@@ -5,17 +5,17 @@ contentType: prose
 
 <section>
 
-### Fama ferme vulgi opinione constat[23](./resources/undefined)
+### Fama ferme vulgi opinione constat[^23]
 
-**_1._** „Mezitím, kteří se tu dobře chovají (řekl dále tlumočník) aneb sobě toho sic zasluhují, má paní Fortuna jiný na to prostředek, jak je nesmrtedlností poctíti.“ „I jak to medle?“ řekl sem, „toť jest slavného něco, nesmrtedlným učiněnu býti! Medle ukažte mi to.“ I obrátí mne Všezvěd a ukáže mi na témž palácu k západní straně vyšší ještě plac aneb výstupek, také pod čirým nebem, kamž z tohoto nižšího schodek a dole při něm dvérka byly, a u těch seděl jakýsi, plno v sobě ze všech stran očí a uší mající, až potvorno (jmenovali ho _Censuram vulgi_[24](./resources/undefined), _Všesudem_), jemuž se každý, kdo na plac Pověsti chtěl, nejen opovědíti, ale i všecky své věci, pro něž se nesmrtedlnosti hodným býti nadával, ukázati a k rozvážení odevzdati musil. Bylo-li v činech jeho co zvláštního a neobyčejného, dobrého neb zlého, puštěn byl zhůru; pakli nic, dole zanechán. Dostávalo se pak tam, jakž sem znamenal, nejvíc lidí z stavu vrchnosti, bojovníků a učených; z stavu nábožníků, řemeslníků a domovního méně.
+**_1._** „Mezitím, kteří se tu dobře chovají (řekl dále tlumočník) aneb sobě toho sic zasluhují, má paní Fortuna jiný na to prostředek, jak je nesmrtedlností poctíti.“ „I jak to medle?“ řekl sem, „toť jest slavného něco, nesmrtedlným učiněnu býti! Medle ukažte mi to.“ I obrátí mne Všezvěd a ukáže mi na témž palácu k západní straně vyšší ještě plac aneb výstupek, také pod čirým nebem, kamž z tohoto nižšího schodek a dole při něm dvérka byly, a u těch seděl jakýsi, plno v sobě ze všech stran očí a uší mající, až potvorno (jmenovali ho _Censuram vulgi_[^24], _Všesudem_), jemuž se každý, kdo na plac Pověsti chtěl, nejen opovědíti, ale i všecky své věci, pro něž se nesmrtedlnosti hodným býti nadával, ukázati a k rozvážení odevzdati musil. Bylo-li v činech jeho co zvláštního a neobyčejného, dobrého neb zlého, puštěn byl zhůru; pakli nic, dole zanechán. Dostávalo se pak tam, jakž sem znamenal, nejvíc lidí z stavu vrchnosti, bojovníků a učených; z stavu nábožníků, řemeslníků a domovního méně.
 
-### Indignis quoque confertur[25](./resources/undefined), Herostratus
+### Indignis quoque confertur[^25], Herostratus
 
 **_2._** Mrzelo mne pak velice, že tak mnoho zlých (loupežníků, tyranů, cizoložníků, vrahů, paličů etc.) jako dobrých tam pouštěli. Nebo sem rozuměl, že to nemůže než převráceným lidem v nectnostech posilou býti; jakož se i trefilo, že jeden přišel, nesmrtedlnosti žádaje a tázán byv, co nesmrtedlné památky hodného způsobil, odpověděl, že co nejslavnějšího v světě věděl, zkazil, naschvál chrám, na nějž sedmnáctero království tři sta let práci a náklad vedlo, zapáliv a jednoho dne v rům položiv. I užasl se ten Censura té hanebné opovážlivosti a pustiti ho tam, za nehodného soudě, nechtěl. Ale přišla paní Fortuna a pustiti ho kázala. Kterýmž příkladem posíleni jsouc jiní, leccos hrozného, co spáchali, vyčítali; tento, že co nejvíc mohl, lidské krve vylil; jiný, že nové rouhání, jak by se Bohu zlořečiti mělo, vymyslil; jiný, že Boha na smrt odsoudil; jiný, že Slunce z oblohy strhna, doprostřed propasti pohřížil; jiný, že nové tovaryšstvo paličů a mordéřů, skrze něž lidské pokolení tříbeno bude, začal etc., a byli všickni napořád zhůru pouštíni; což, pravím, velmi mi se nelíbilo.
 
 ### Marnost pověsti
 
-**_3._** Vešel sem však za nimi tam, a aj, tu hned je jakýsi také paní Fortuny úředník, jménem _Fama_ aneb _Pověst_, přijímal, jehož nic nebylo než ústa. Jak zajisté dolní ten plný očí a uší, tak tento plný ze všech stran úst byl a jazyků, od nichž nemalý se hluk a zvuk rozcházel. A milý ten immortalitatis candidatus[26](./resources/undefined) ten odtud užitek měl, že se tím křikem jméno jeho sem a tam rozvolávalo. Ale na to když sem bedlivě pozoroval, spatřil sem, že se o každém tom udělaný pokřik zase pomalu tišil, až i utichlo všecko a něčí jiného zníti začala. „I jakáž to nesmrtedlnost?“ řekl sem, „však každý téměř trošku pobuda, hned zase z očí, úst a mysli lidem vypadá.“ Odpověděl tlumočník: „A tobě pak všecko málo. Nu, podívej se na tyto aspoň.“
+**_3._** Vešel sem však za nimi tam, a aj, tu hned je jakýsi také paní Fortuny úředník, jménem _Fama_ aneb _Pověst_, přijímal, jehož nic nebylo než ústa. Jak zajisté dolní ten plný očí a uší, tak tento plný ze všech stran úst byl a jazyků, od nichž nemalý se hluk a zvuk rozcházel. A milý ten immortalitatis candidatus[^26] ten odtud užitek měl, že se tím křikem jméno jeho sem a tam rozvolávalo. Ale na to když sem bedlivě pozoroval, spatřil sem, že se o každém tom udělaný pokřik zase pomalu tišil, až i utichlo všecko a něčí jiného zníti začala. „I jakáž to nesmrtedlnost?“ řekl sem, „však každý téměř trošku pobuda, hned zase z očí, úst a mysli lidem vypadá.“ Odpověděl tlumočník: „A tobě pak všecko málo. Nu, podívej se na tyto aspoň.“
 
 ### Do historií se dostati jaká čač?
 
@@ -35,12 +35,12 @@ contentType: prose
 
 * * *
 
-[23](./resources/undefined) Sláva záleží téměř jen v mínění lidu. _Pozn. red._
+[^23]: Sláva záleží téměř jen v mínění lidu. _Pozn. red._
 
-[24](./resources/undefined) Soud lidu. _Pozn. red._
+[^24]: Soud lidu. _Pozn. red._
 
-[25](./resources/undefined) Dostává se jí také nehodným. _Pozn. red._
+[^25]: Dostává se jí také nehodným. _Pozn. red._
 
-[26](./resources/undefined) Kandidát nesmrtelnosti. _Pozn. red._
+[^26]: Kandidát nesmrtelnosti. _Pozn. red._
 
 </section>

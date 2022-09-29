@@ -9,7 +9,7 @@ contentType: prose
 
 **_1._** Aniž toliko prostý pokoj v nich přebývá, ale ustavičná radost a plesání, kteréž se v srdcích z přítomnosti a čitedlnosti Boží lásky rozplývá. Nebo kde Bůh jest, tu nebe; kde nebe, tu radost věčná; kde radost věčná, tu člověk neví, čeho víc žádati. Stín jest žert, smích, všeliká světa radost proti radosti této, jen že toho nevím, jakými slovy vymluviti aneb navrci. Viděl sem, viděl, viděl a poznal, že Boha s nebeskými jeho poklady v sobě míti slavnějšího cosi jest, nežli aby k tomu všeho světa sláva, pracht, blesk přirovnán býti; radostnějšího, nežli aby tomu všecken svět co ujíti neb přidati; většího a vyššího, nežli aby všecken svět to chopiti neb obsáhnouti mohl.
 
-### N. B.[29](./resources/undefined)
+### N. B.[^29]
 
 **_2._** Nebo jak jen tomu člověku sladko a potěšeno býti nemá, kterýž takové božské v sobě světlo; takové ušlechtilé Ducha Božího sebe spořádání; takové od světa a otroctví jeho osvobození; takové jisté a hojné Boží sebe opatrování; takové před nepřáteli a příhodami ubezpečení; takový naposledy odevšad pokoj, jakž již ukázáno, v sobě cítí a vidí? Toť jest ta sladkost, jíž svět nerozumí. To ta sladkost, jíž kdo zakusí, za ní s odvážením všeho jíti musí, to ta sladkost, od níž žádná jiná sladkost odlouditi, žádná hořkost odloučiti, žádná lahodnost odvábiti, žádná příkrost, ani smrt sama, odvrátiti nemůže.
 
@@ -21,6 +21,6 @@ contentType: prose
 
 * * *
 
-[29](./resources/undefined) _Nota bene_ = zaznamenej dobře, nepřehlédni, zapamatuj si. _Pozn. red._
+[^29]: _Nota bene_ = zaznamenej dobře, nepřehlédni, zapamatuj si. _Pozn. red._
 
 </section>
