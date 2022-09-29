@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-### Sapientiae apex, desperatio de rebus mundi[27](./resources/undefined)
+### Sapientiae apex, desperatio de rebus mundi[^27]
 
 **_1._** I lekl sem se, že tak nikdež nic v světě, ani na samém tom hradu Potěšení není, čehož by se mysl bezpečně, směle a cele chopiti mohla. Kteráž myšlení velmi kormoutlivě mne čím dál tím víc rozcházela, z nichž mne tlumočník můj Mámil (ač všelijak ohledával) vyraziti nijakž nemohl, až sem i zkřikl: „Ach, mého hoře, nic-liž pak na tom bídném světě potěšeného nenajdu? Však pak při všem všudy kvaltování a tesknosti plno.“ Tlumočník dí: „A kdo tím než ty sám, nechutné kyselo, vinen. Když sobě všecko ošklivíš, coť se líbiti má? Hleď na jiné, jak každý v svém stavu vesel a mysli dobré, dosti sladkosti v věcech svých maje.“ „Aneboť blázní všickni napořád,“ řekl sem, „aneb lhou; nebo aby potěšení pravého požívali, možné není.“ „Blázni i ty,“ dí Všudybud, „aby své tesknosti polehčil.“ Odpověděl sem: „Ani v to trefiti neumím. Však víš, že sem kolikrát ohledoval, a vždycky mne ze všeho vyrazilo spatřování prudkých s každou věcí proměn a bídného cíle.“
 
@@ -29,6 +29,6 @@ contentType: prose
 
 * * *
 
-[27](./resources/undefined) Vrcholem moudrosti je zoufání nad věcmi pozemskými. _Pozn. red._
+[^27]: Vrcholem moudrosti je zoufání nad věcmi pozemskými. _Pozn. red._
 
 </section>

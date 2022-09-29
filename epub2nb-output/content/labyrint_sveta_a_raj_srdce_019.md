@@ -7,7 +7,7 @@ contentType: prose
 
 **_1._** A Všudybud dí: „Nyní aspoň poď, uvedu tě tam, kdež vrch jest vtipu lidského a tak rozkošná práce, že kdo se k ní jednou obrátí, dokud živ, pustiti ji pro ušlechtilé kochání, kteréž mysli přináší, nemůže.“ I prosil sem, aby nedlil ukázati mi toho. Takž mne uvede do jakýchsi sklepů, a aj, tu několika řady stálo ohnišť, pícek, kotlů a sklenných věcí, až se všecko blyštělo. Lidé pak chodíc snášeli a podkládali roždí; tož dmýchali, pak hasili zas, nalévajíce cosi a přelévajíce rozličně. I ptal sem se: „Kdo sou to a co dělají?“ Odpověděl mi: „Nejsubtilnější filozofi, kteříž, co slunce nebeské horkostí svou v střevách země za několik let zpraviti nemůž, dopravují, kovy všelijaké na nejvyšší stupeň vyvodíce, to jest na zlato“. „A načiž je to?“ řekl sem, „však se víc železa a jiných kovů než zlata užívá.“ „Cos ty bloud,“ řekl on. „Vždyť jest zlato nejvzácnější věc, kdo je má, chudoby se nebojí.
 
-### Lapis philosophicus[10](./resources/undefined)
+### Lapis philosophicus[^10]
 
 **_2._** „Nadto věc ta, kteráž kovy v zlato mění, má jiné také předivné moci; jako i tu, že zdraví lidské až do smrti v celosti zachovává a smrti (leč po dvouch neb třech stech letech) nepřipustí. Nýbrž, kdyby kdo užívati toho uměl, nesmrtedlného by se učiniti mohl. Není zajisté lapis ten jiného nic než símě života, jádro a výtah všeho světa, z něhož zvířata, zrostliny, kovové i sami živlové bytnost berou.“ I ulekl sem se, tak divné věci slyše, a: „Tedy tito nesmrtedlní jsou?“ řekl jsem. Odpověděl: „Ne všechněm se toho najíti dostává. A i kteří dostávají, ne vždycky s tím dokonale zacházeti umějí.“ „Já bych se přičinil,“ řekl sem, „kdybych ten kámen měl, tak s ním zacházeti, aby ke mně Smrt nemohla, a zlata bych pro sebe i jiné dosti míti chtěl. A kde pak se ten kámen béře?“ Odpověděl: „Tu se strojí.“ „V těch kotlících?“ řekl sem. „Ano.“
 
@@ -29,6 +29,6 @@ contentType: prose
 
 * * *
 
-[10](./resources/undefined) Kámen mudrců. _Pozn. red._
+[^10]: Kámen mudrců. _Pozn. red._
 
 </section>

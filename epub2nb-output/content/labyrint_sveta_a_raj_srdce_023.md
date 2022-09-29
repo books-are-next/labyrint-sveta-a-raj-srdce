@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-**_1._** Ale aj, vtom trouby zvuk zavzní, jako svolávajících se k slavnosti; a Všezvěd srozuměje, co bude, dí: „Navraťme se ještě medle, tu se bude nač podívati.“ „I což to bude?“ dím já. On: „Academia bude korunovati ty, kteříž nad jiné byvše pilnější, vrchu umění dosáhli. Ti, pravím, jiným na příklad korunováni budou.“ Já tedy věc tak zvláštní viděti žádostiv jsa a houfy sbíhajících se vida, vejdu za jinými také; a aj, tu pod filozofickým nebem jakýsi stál s papírovým sceptrum[18](./resources/undefined), k němuž zprostřed houfu někteří přistupovali, svědectví vysokého umění žádajíce. On žádost jejich, že slušná jest, schváliv poručil, aby co umějí a nač stvrzení žádají, na cedulce poznamenané dali. I odvozovali jeden filozofie summu, jiný medicíny, jiný jurisprudentiae; měšcem přitom, aby to hladčeji šlo, podmazujíce.
+**_1._** Ale aj, vtom trouby zvuk zavzní, jako svolávajících se k slavnosti; a Všezvěd srozuměje, co bude, dí: „Navraťme se ještě medle, tu se bude nač podívati.“ „I což to bude?“ dím já. On: „Academia bude korunovati ty, kteříž nad jiné byvše pilnější, vrchu umění dosáhli. Ti, pravím, jiným na příklad korunováni budou.“ Já tedy věc tak zvláštní viděti žádostiv jsa a houfy sbíhajících se vida, vejdu za jinými také; a aj, tu pod filozofickým nebem jakýsi stál s papírovým sceptrum[^18], k němuž zprostřed houfu někteří přistupovali, svědectví vysokého umění žádajíce. On žádost jejich, že slušná jest, schváliv poručil, aby co umějí a nač stvrzení žádají, na cedulce poznamenané dali. I odvozovali jeden filozofie summu, jiný medicíny, jiný jurisprudentiae; měšcem přitom, aby to hladčeji šlo, podmazujíce.
 
 </section>
 
@@ -21,6 +21,6 @@ contentType: prose
 
 * * *
 
-[18](./resources/undefined) Zde: žezlo. _Pozn. red._
+[^18]: Zde: žezlo. _Pozn. red._
 
 </section>

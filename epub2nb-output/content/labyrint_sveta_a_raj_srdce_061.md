@@ -15,10 +15,10 @@ contentType: prose
 
 GLORIA IN EXCELSIS DEO,  
 ET IN TERRA PAX  
-HOMINIBUS BONAE VOLUNTATIS[31](./resources/undefined)
+HOMINIBUS BONAE VOLUNTATIS[^31]
 
 * * *
 
-[31](./resources/undefined) Sláva na výsostech Bohu, a na zemi pokoj lidem dobré vůle. _Pozn. red._
+[^31]: Sláva na výsostech Bohu, a na zemi pokoj lidem dobré vůle. _Pozn. red._
 
 </section>
