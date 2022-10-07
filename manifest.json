@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "komensky-labyrint-sveta-a-raj-srdce-815cdce",
-  "revision": "815cdce",
+  "identifier": "komensky-labyrint-sveta-a-raj-srdce-80dc38f",
+  "revision": "80dc38f",
   "readingOrder": [
     "promo.html",
     "labyrint_sveta_a_raj_srdce_005.html",
@@ -72,8 +72,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:57:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924277405
+    "date": "Fri Oct 07 2022 14:05:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151501139
   },
   "documents": [
     {
